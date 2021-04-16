@@ -1,0 +1,2867 @@
+[
+    {
+        "trigger": "decodes to nc",
+        "label": "C2",
+        "sen": "This payload is contained in the sef_ftp.cgi URI , which decodes to nc $Domain$ 1234 - e bin/sh"
+    },
+    {
+        "trigger": "dropped by the exploit kit",
+        "label": "Exploitation",
+        "sen": "$Hash$ – The main sample , dropped by the exploit kit $Hash$ – Unpacked Server.dll"
+    },
+    {
+        "trigger": "get in touch with us",
+        "label": "benign",
+        "sen": "If you want to suggest an update , get in touch with us by emailing : $Email$"
+    },
+    {
+        "trigger": "C2s",
+        "label": "C2",
+        "sen": "The DNS traffic of S-cluster C2s $Domain$ : the topmost blue curve in the corresponding graph"
+    },
+    {
+        "trigger": "get the privileges",
+        "label": "Exploitation",
+        "sen": "$Hash$ attempts to get the privileges for SeDebugPrivilege ."
+    },
+    {
+        "trigger": "the victim was",
+        "label": "benign",
+        "sen": "The earliest DDoS attack we captured in our Botnet Tracking System from this campaign went back to 2017-06-11 and the victim was $IP$ ."
+    },
+    {
+        "trigger": "secondary dropper",
+        "label": "Installation",
+        "sen": "The secondary dropper then cleans up after itself with a simple vbs script md5 : 0d132ee171768dc30d14590ed2dbadd1 that leaves only the decoy multimedia file behind ."
+    },
+    {
+        "trigger": "detected as",
+        "label": "mal",
+        "sen": "Related Hashes SHA256 detected as BKDR64_WINNTI.ONM : $Hash$ — cryptbase.dll"
+    },
+    {
+        "trigger": "actively fighting phishing attacks",
+        "label": "benign",
+        "sen": "It is clear that the company is actively fighting phishing attacks , for example , by registering obfuscated domains in its own name $Domain$ , $Domain$ , $Domain$ , $Domain$ , $Domain$ , $Domain$ ."
+    },
+    {
+        "trigger": "IOCs",
+        "label": "mal",
+        "sen": "IOCs : $Domain$"
+    },
+    {
+        "trigger": "recursive sweep of all logical fixed and remote drives",
+        "label": "Actions_on_Objectives",
+        "sen": "Apart from doing a recursive sweep of all logical fixed and remote drives , it $Hash$ also continually monitors any attached removable media or network shares by listening to DBT_DEVICEARRIVAL events ."
+    },
+    {
+        "trigger": "C&amp;C server",
+        "label": "C2",
+        "sen": "Therefore , $Hash$ gets decoded to $Domain$ , which is the current C&amp;C server at the time of writing this publication."
+    },
+    {
+        "trigger": "download and execute POWERTON hosted",
+        "label": "C2",
+        "sen": "The payload was crafted to download and execute POWERTON hosted at $URL$ MD5 : $Hash$ ."
+    },
+    {
+        "trigger": "via RIG exploit kit",
+        "label": "Exploitation",
+        "sen": "The sample , $Hash$ , was compiled six days after our Upatre sample and delivered the Chthonic banking trojan via RIG exploit kit ."
+    },
+    {
+        "trigger": "malicious macro",
+        "label": "Delivery",
+        "sen": "$Hash$ This document contains a malicious macro that , when enabled , drops an NSIS installer whose task is to prepare installation of the main backdoor ."
+    },
+    {
+        "trigger": "the distribution is currently being carried out from a newly identified domain",
+        "label": "C2",
+        "sen": "Based on the certificate fingerprint used to sign both Android samples , we believe the C2 recently changed to $Domain$ and the distribution is currently being carried out from a newly identified domain $Domain$ ."
+    },
+    {
+        "trigger": "executed the following command",
+        "label": "C2",
+        "sen": "After the user opened the document it executed the following command : mshta.exe , mshta $URL$"
+    },
+    {
+        "trigger": "exfiltration of stolen data",
+        "label": "Actions_on_Objectives",
+        "sen": "CloudDuke also greatly expands on the Duke group's usage of cloud storage services $URL$ , specifically Microsoft's OneDrive , as a channel for the exfiltration of stolen data ."
+    },
+    {
+        "trigger": "connecting to a different domain name",
+        "label": "C2",
+        "sen": "Other Korplug samples were connecting to a different domain name resolving to the same IPs as $Domain$ ."
+    },
+    {
+        "trigger": "packed",
+        "label": "Installation",
+        "sen": "$Hash$ – packed"
+    },
+    {
+        "trigger": "delivery document",
+        "label": "Delivery",
+        "sen": "In addition , the delivery document shared metadata artifacts with the ThreeDollars delivery document SHA256 : $Hash$ that OilRig used to deliver the ISMAgent payload in a targeted attack"
+    },
+    {
+        "trigger": "command and control servers",
+        "label": "C2",
+        "sen": "During the period of September 2014-November 2014 , the command and control servers of this malware were registered to presumably a Chinese entity going by the name “ Zhou Lou ” , from Hunan , using the e-mail address “ $Email$ ” ."
+    },
+    {
+        "trigger": "send a HTTP GET request to the compromised websites",
+        "label": "Delivery",
+        "sen": "The JScript file then uses MSXML2.XMLHTTP to send a HTTP GET request to the compromised websites $Domain$ ."
+    },
+    {
+        "trigger": "gather data from the company’s network",
+        "label": "Actions_on_Objectives",
+        "sen": "The implants $Hash$ allowed GCHQ to conduct surveillance of internal Belgacom company communications and gave British spies the ability to gather data from the company’s network and customers , which include the European Commission , the European Parliament , and the European Council ."
+    },
+    {
+        "trigger": "Malvertising domain",
+        "label": "mal",
+        "sen": "Malvertising domain $Domain$"
+    },
+    {
+        "trigger": "ClipboardMonitor",
+        "label": "Actions_on_Objectives",
+        "sen": "Plugins : ClipboardMonitor $Hash$"
+    },
+    {
+        "trigger": "Loader",
+        "label": "Installation",
+        "sen": "$Hash$ Smoke Loader"
+    },
+    {
+        "trigger": "hardcoded C2 domain",
+        "label": "C2",
+        "sen": "Its hardcoded C2 domain is : $Domain$"
+    },
+    {
+        "trigger": "Destroyer",
+        "label": "Actions_on_Objectives",
+        "sen": "Olympic Destroyer : $Hash$"
+    },
+    {
+        "trigger": "server we detected",
+        "label": "mal",
+        "sen": "Another server we detected that was used both by Zebrocy and by GreyEnergy is $IP$ ."
+    },
+    {
+        "trigger": "communicate with the C2 domain",
+        "label": "C2",
+        "sen": "Once again , POSHC2 was used to download a new variant of POWERTON MD5 : $Hash$ , configured to communicate with the C2 domain $URL$ ."
+    },
+    {
+        "trigger": "has address",
+        "label": "mal",
+        "sen": "$Domain$ has address $IP$"
+    },
+    {
+        "trigger": "redirected visitors the exploit server",
+        "label": "Delivery",
+        "sen": "We subsequently found that the American Research Center in Egypt $Domain$ and the Smith Richardson Foundation $Domain$ also redirected visitors the exploit server ."
+    },
+    {
+        "trigger": "Stolen data was packed",
+        "label": "Actions_on_Objectives",
+        "sen": "Stolen data was packed and sent encrypted over $URL$ random ports ."
+    },
+    {
+        "trigger": "One sends results to",
+        "label": "Actions_on_Objectives",
+        "sen": "One sends results to http://aega.co.kr/mall/skin/skin.php?id=ksjdnksIt’s possible"
+    },
+    {
+        "trigger": "same scammer group",
+        "label": "Delivery",
+        "sen": "To summarize , the same scammer group that used the Shoppers Stop template late last year has already registered a tech support domain $Domain$ and a phone number with the same type of browser locker as used in their Shoppers Stop campaign ."
+    },
+    {
+        "trigger": "For further help ",
+        "label": "benign",
+        "sen": "For further help , please reach us out at $Email$ ."
+    },
+    {
+        "trigger": "recent documents that we discovered",
+        "label": "mal",
+        "sen": "One of the recent documents that we discovered had the following properties : MD5 : $Hash$ SHA1 :"
+    },
+    {
+        "trigger": "connections to",
+        "label": "C2",
+        "sen": "The researchers found samples of the Azorult info-stealer that connects to a command-and-control C2 server called “ $Domain$ , ” for instance , as well as other scat01 connections to the Evrial info-stealer and the 1ms0rryStealer ."
+    },
+    {
+        "trigger": "was originally created a year ago",
+        "label": "mal",
+        "sen": "The $Domain$ domain was originally created a year ago on Jan . 6 , 2019 ."
+    },
+    {
+        "trigger": "identifying and locating a target",
+        "label": "Actions_on_Objectives",
+        "sen": "Syrian regime-linked malware $Hash$ , it is intended for identifying and locating a target ."
+    },
+    {
+        "trigger": "a particular scanner",
+        "label": "Actions_on_Objectives",
+        "sen": "An observation about a particular scanner $IP$"
+    },
+    {
+        "trigger": "Delivery Document",
+        "label": "Delivery",
+        "sen": "Indicators of Compromise KHRAT Delivery Document : $Hash$"
+    },
+    {
+        "trigger": "tried to exploit RevSlider vulnerability",
+        "label": "Exploitation",
+        "sen": "We also noticed that the IP address of the “ $Domain$ ” server $IP$ – Digitalocean Amsterdam was mentioned in a tweet about an attacks that tried to exploit RevSlider vulnerability :"
+    },
+    {
+        "trigger": "download files",
+        "label": "Installation",
+        "sen": "The memory of many devices contains the file / bin/fotabinder $Hash$ , which can download files to user devices and execute code on them received from one of the following remote servers : adsunflower ."
+    },
+    {
+        "trigger": "Malicious Domains",
+        "label": "mal",
+        "sen": "Related IP Addresses and Malicious Domains : $IP$"
+    },
+    {
+        "trigger": "hard coded IP addresses",
+        "label": "mal",
+        "sen": "The 9 hard coded IP addresses : $IP$"
+    },
+    {
+        "trigger": "retrieve additional malicious content for execution",
+        "label": "Installation",
+        "sen": "$Hash$ does nothing but execute a PowerShell one-liner to retrieve additional malicious content for execution ."
+    },
+    {
+        "trigger": "Enumerate attached drives",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ Enumerate attached drives Utilize built in SQL functions to connect to database backend Run SQL queries and statements Download , upload and read files Directory listing ."
+    },
+    {
+        "trigger": "exploits",
+        "label": "Exploitation",
+        "sen": "It exploits $CVE$ to download the second stage payload from exploit server $IP$ Figure 3 ."
+    },
+    {
+        "trigger": "Dropper",
+        "label": "Installation",
+        "sen": "2263387661.exe Graftor Dropper $Hash$ MD5"
+    },
+    {
+        "trigger": "Loader IPs",
+        "label": "C2",
+        "sen": "Some recent active Loader IPs $IP$"
+    },
+    {
+        "trigger": "Initial document Product",
+        "label": "Delivery",
+        "sen": "Indicators of compromise Initial document Product Description.docx $Hash$"
+    },
+    {
+        "trigger": "Malicious update URLs",
+        "label": "mal",
+        "sen": "$Domain$ Malicious update URLs"
+    },
+    {
+        "trigger": "Backdoor",
+        "label": "Installation",
+        "sen": "$Hash$ Backdoor"
+    },
+    {
+        "trigger": "traditional beaconing command and control infrastructure",
+        "label": "C2",
+        "sen": "MD5 Hash : $Hash$ is an excellent example of a more robust web shell used to replace Deep Panda’s traditional beaconing command and control infrastructure ."
+    },
+    {
+        "trigger": "noticeable malicious URLs",
+        "label": "mal",
+        "sen": "The most noticeable malicious URLs that we’ve seen lately are : $URL$ $IP$ Bulgaria"
+    },
+    {
+        "trigger": "perform a redirect to a server at",
+        "label": "Delivery",
+        "sen": "There is a specific URI pattern indicating that hacked sites are being leveraged to perform a redirect to a server at $IP$ ."
+    },
+    {
+        "trigger": "sends the stolen details",
+        "label": "Actions_on_Objectives",
+        "sen": "The malicious script loads the credit card stealing code from $Domain$ and sends the stolen details to $URL$ ."
+    },
+    {
+        "trigger": "File Hashes",
+        "label": "mal",
+        "sen": "File Hashes $Hash$"
+    },
+    {
+        "trigger": "MalSpam attached",
+        "label": "Delivery",
+        "sen": "MalSpam attached zip with vbs malware . VBS : $Hash$"
+    },
+    {
+        "trigger": "communicating with malware on victim machines",
+        "label": "C2",
+        "sen": "In one instance , a log file recovered from an open indexed server revealed that an IP address $IP$ located in Hainan , China had been used to administer the command and control node that was communicating with malware on victim machines ."
+    },
+    {
+        "trigger": "Detected by Trend Micro",
+        "label": "mal",
+        "sen": "Detected by Trend Micro as JS_NEMUCOD.THCOF $Hash$ Detected by Trend Micro as Ransom_CRYPTLOCK.DLFLVV"
+    },
+    {
+        "trigger": "Analyzed samples",
+        "label": "mal",
+        "sen": "Analyzed samples from 2014 : $Hash$ – first observed sample of Kronos thanks to Kevin Beaumont"
+    },
+    {
+        "trigger": "uninstalls the service",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ , which happens to be a cleaner program that uninstalls the service and removes all files created by the program , regardless of the current date ."
+    },
+    {
+        "trigger": "websites were compromised",
+        "label": "Delivery",
+        "sen": "According to ESET telemetry , the following websites were compromised : $URL$ : The consular Section of the Embassy of Armenia in Russia $URL$ : Ministry of Nature Protection and Natural Resources of the Republic of Artsakh $URL$ :"
+    },
+    {
+        "trigger": "being associated with Remcos",
+        "label": "mal",
+        "sen": "One of the other domains we identified as being associated with Remcos was $Domain$ ."
+    },
+    {
+        "trigger": "command and control destination",
+        "label": "C2",
+        "sen": "Whilst $Domain$ appears to be a legitimate site , it has also been observed as being a command and control destination for malware ."
+    },
+    {
+        "trigger": " had a malicious iframe injected to it",
+        "label": "Delivery",
+        "sen": "We first observed redirects to RIG EK on Mar . 10 , 2018 , from the compromised domain , $Domain$ , which had a malicious iframe injected to it Figure 2 ."
+    },
+    {
+        "trigger": "exploits multiple new and old vulnerabilities",
+        "label": "Exploitation",
+        "sen": "Adminer as a CMS Agnostic Attack Vector Given the nature of this malware campaign—which actively exploits multiple new and old vulnerabilities - we can’t vouch that the vulnerability in Adminer was the only attack vector used in the $Domain$ injections this past week ."
+    },
+    {
+        "trigger": "C2s",
+        "label": "C2",
+        "sen": "C2s $Domain$"
+    },
+    {
+        "trigger": "as C2",
+        "label": "C2",
+        "sen": "A development release with an internal RFC1918 address used 192.168.1.169 as C2 signed by the same certificate was submitted anonymously to VirusTotal from the same Moroccan geographic region as the geolocation of the IP $IP$ used in the early stages of the campaign , which suggests that the developers of Loda4Android are potentially based in Morocco ."
+    },
+    {
+        "trigger": "Command and Control Server",
+        "label": "C2",
+        "sen": "Command and Control Server : $IP$"
+    },
+    {
+        "trigger": "connected to",
+        "label": "C2",
+        "sen": "This sample is detected as Backdoor.APT.Preshin and connected to $Domain$ for C2 ."
+    },
+    {
+        "trigger": "download additional files from",
+        "label": "C2",
+        "sen": "The first step of the Java code is to setup the working environment of the malware and to download additional files from $URL$ ."
+    },
+    {
+        "trigger": "Indicators of Compromise IoCs",
+        "label": "mal",
+        "sen": "Indicators of Compromise IoCs : $Hash$ —"
+    },
+    {
+        "trigger": "conduct surveillance of internal Belgacom company communications",
+        "label": "Actions_on_Objectives",
+        "sen": "The implants $Hash$ allowed GCHQ to conduct surveillance of internal Belgacom company communications and gave British spies the ability to gather data from the company’s network and customers , which include the European Commission , the European Parliament , and the European Council ."
+    },
+    {
+        "trigger": "to a Java exploit hosted on",
+        "label": "Exploitation",
+        "sen": "In this case , visitors were redirected from www.ceps.be to a Java exploit hosted on $Domain$ ."
+    },
+    {
+        "trigger": "analyzed JavaScript",
+        "label": "Delivery",
+        "sen": "The analyzed JavaScript $Hash$ is obfuscated :"
+    },
+    {
+        "trigger": "backdoor sends a pack with the victim's system information",
+        "label": "Actions_on_Objectives",
+        "sen": "During the first C&C call $URL$ , the backdoor sends a pack with the victim's system information ."
+    },
+    {
+        "trigger": "as the dropper site",
+        "label": "C2",
+        "sen": "The Windows version see details below uses the IP $IP$ as the dropper site , which hosts the download scripts first stage and main payload ."
+    },
+    {
+        "trigger": "deliver the ISMAgent payload",
+        "label": "Delivery",
+        "sen": "In addition , the delivery document shared metadata artifacts with the ThreeDollars delivery document SHA256 : $Hash$ that OilRig used to deliver the ISMAgent payload in a targeted attack"
+    },
+    {
+        "trigger": "C2 server",
+        "label": "C2",
+        "sen": "C2 server $IP$"
+    },
+    {
+        "trigger": "delivering malicious scripts anymore",
+        "label": "Delivery",
+        "sen": "Since the end of November 2019 , we noticed that $Domain$ was not delivering malicious scripts anymore ."
+    },
+    {
+        "trigger": "Domain Spoofing",
+        "label": "Delivery",
+        "sen": "Domain Spoofing ScamSeveral individuals were recently arrested for creating a spoof domain for $Domain$ , a site that allows users to access their cryptocurrency wallets ."
+    },
+    {
+        "trigger": "communicates with the driver",
+        "label": "C2",
+        "sen": "$Hash$ – dispci.exe – installs the bootlocker , communicates with the driver"
+    },
+    {
+        "trigger": "download the jpg from",
+        "label": "C2",
+        "sen": "Here is the extracted URL which the document attempts to download the jpg from : SHA256 : $Hash$"
+    },
+    {
+        "trigger": "carried the same malicious doc file as an attachment",
+        "label": "Delivery",
+        "sen": "Though there were multiple waves of messages following a similar tactic , each one carried the same malicious doc file as an attachment SHA256 : $Hash$ ."
+    },
+    {
+        "trigger": "gathers system-specific information to send to the C2 server",
+        "label": "Actions_on_Objectives",
+        "sen": "As mentioned in the behavioral analysis section , the Cmstar downloader $Hash$ gathers system-specific information to send to the C2 server $URL$ ."
+    },
+    {
+        "trigger": "second-stage payload MD5",
+        "label": "Installation",
+        "sen": "The second-stage payload MD5 : $Hash$ contains an APK file named “ data ” MD5 : $Hash$ with a corrupted header in the assets path ."
+    },
+    {
+        "trigger": "used several redirects",
+        "label": "Delivery",
+        "sen": "This traffic indicates the app used several redirects : The advertisement came from $Domain$ , was redirected throgh go2affise.com and finally landed on $Domain$ ."
+    },
+    {
+        "trigger": "Okane Multi exploit samples",
+        "label": "Exploitation",
+        "sen": "Okane Multi exploit samples $Hash$"
+    },
+    {
+        "trigger": "the malware was deliver to the victim",
+        "label": "Delivery",
+        "sen": "The modified file redirected the GOM Player update process to another compromised server $Domain$ $IP$ , where a file containing both the legitimate update and the malware was deliver to the victim ."
+    },
+    {
+        "trigger": "server as C2",
+        "label": "C2",
+        "sen": "The following Zebrocy samples use this server as C2 : $Hash$"
+    },
+    {
+        "trigger": "IOC",
+        "label": "mal",
+        "sen": "IOC $Hash$ $Hash$"
+    },
+    {
+        "trigger": "Mole ransomware",
+        "label": "Actions_on_Objectives",
+        "sen": "File description : Mole ransomware from thru Google Docs URL on April 12th SHA256 hash : $Hash$"
+    },
+    {
+        "trigger": "downloads Dridex from the following location",
+        "label": "C2",
+        "sen": "; The second type is a XLS file with a Macro that downloads Dridex from the following location : $URL$ /"
+    },
+    {
+        "trigger": "upload , download , enumerate , delete , search , and execute files",
+        "label": "Actions_on_Objectives",
+        "sen": "Setup The ocx file $Hash$ is actually a DLL and provides the attacker the ability to upload , download , enumerate , delete , search , and execute files as well as list drivers on the system ."
+    },
+    {
+        "trigger": "gather as much information",
+        "label": "Actions_on_Objectives",
+        "sen": "The purpose of this phase is to gather as much information about a target in order to build an organized list of data which will be used in future hacking phases scanning , enumeration , and gaining access . $URL$ /"
+    },
+    {
+        "trigger": "main bot packed",
+        "label": "Installation",
+        "sen": "$Hash$ – main bot packed"
+    },
+    {
+        "trigger": "Free domains are mostly DDNS",
+        "label": "benign",
+        "sen": "Free domains are mostly DDNS from No-IP : $Domain$ , $Domain$ , $Domain$ , while paid domains are registered through the REG.RU registrar and include the fun , site , space , ru , website and xyz TLDs ."
+    },
+    {
+        "trigger": "C2",
+        "label": "C2",
+        "sen": "C2 $Domain$"
+    },
+    {
+        "trigger": "other malvertising domains",
+        "label": "Delivery",
+        "sen": "$Domain$ , $Domain$ , $Domain$ , top.support-quick.com , and 41 other malvertising domains all on the host $IP$"
+    },
+    {
+        "trigger": "Sample MD5",
+        "label": "mal",
+        "sen": "Sample MD5 : $Hash$"
+    },
+    {
+        "trigger": "gathering further information on the compromised system",
+        "label": "Actions_on_Objectives",
+        "sen": "We have , for instance , observed components $Hash$ dedicated to stealing login credentials from the victim machine and components dedicated to gathering further information on the compromised system like the presence of antivirus software or a firewall ."
+    },
+    {
+        "trigger": "trojanized binary",
+        "label": "Installation",
+        "sen": "64-bit trojanized binary : $Hash$ EFACli64.dll"
+    },
+    {
+        "trigger": "detect the toolkit occur",
+        "label": "Actions_on_Objectives",
+        "sen": "These modules $Hash$ can include data collectors , a self-defense engine which detects if attempts to detect the toolkit occur , functionality for encrypted communications , network capture programs ."
+    },
+    {
+        "trigger": "get remote host",
+        "label": "C2",
+        "sen": "step 1 Decrypt to get remote host A $Domain$ and get its DNS TXT resolution result ."
+    },
+    {
+        "trigger": "malicious code found ont he ATD website",
+        "label": "Delivery",
+        "sen": "In the last week , Volexity also observed both the English and Chinese language websites for the Democratic Party Hong Kong compromised with the same malicious code found ont he ATD website $Domain$ | $Domain$ ."
+    },
+    {
+        "trigger": "final VB payload",
+        "label": "Installation",
+        "sen": "final VB payload $Hash$ –"
+    },
+    {
+        "trigger": "APT intrusion activity both target the",
+        "label": "benign",
+        "sen": "These ongoing DDoS attacks and previous APT intrusion activity both target the $Domain$ website ."
+    },
+    {
+        "trigger": "are connected to this attack",
+        "label": "C2",
+        "sen": "The following URLs are connected to this attack : $URL$ $Domain$"
+    },
+    {
+        "trigger": "IOCs Samples of SpyDealer",
+        "label": "mal",
+        "sen": "IOCs Samples of SpyDealer $Hash$ $Hash$"
+    },
+    {
+        "trigger": "sending the server information via",
+        "label": "Actions_on_Objectives",
+        "sen": "After sending the server information via the VictimInfoPacket , the server variant $URL$ spins off a CommLoop thread for the connection and returns to waiting for new connections from clients to appear ."
+    },
+    {
+        "trigger": "harvest stored module credentials",
+        "label": "Actions_on_Objectives",
+        "sen": "Password stealer $Hash$ Will attempt to harvest stored module credentials from the victim NTLM stealer ."
+    },
+    {
+        "trigger": "Backdoor Loader",
+        "label": "Installation",
+        "sen": "A Darkhotel Retro Backdoor Loader $Hash$ Win32/Ramsay."
+    },
+    {
+        "trigger": "HTML attachment",
+        "label": "Delivery",
+        "sen": "$Hash$ HTML attachment"
+    },
+    {
+        "trigger": "by registering obfuscated domains in its own name",
+        "label": "benign",
+        "sen": "It is clear that the company is actively fighting phishing attacks , for example , by registering obfuscated domains in its own name $Domain$ , $Domain$ , $Domain$ , $Domain$ , $Domain$ , $Domain$ ."
+    },
+    {
+        "trigger": "to impersonate the Trump campaign",
+        "label": "Delivery",
+        "sen": "Theoretically , anybody could use these credentials to impersonate the Trump campaign and send emails on behalf of $Domain$ . "
+    },
+    {
+        "trigger": "is currently hosted in Russia at",
+        "label": "C2",
+        "sen": "The domain $Domain$ was registered on March 29 via REGISTRAR OF DOMAIN NAMES REG.RU LLC and is currently hosted in Russia at $IP$ ."
+    },
+    {
+        "trigger": "communicates with the attacker-controlled server at",
+        "label": "C2",
+        "sen": "The loader , referred to by the malware author as shell , reads and deobfuscates the main implant code which then communicates with the attacker-controlled server at $Domain$ $IP$ on TCP port 443 ."
+    },
+    {
+        "trigger": "functionality for encrypted communications",
+        "label": "Actions_on_Objectives",
+        "sen": "These modules $Hash$ can include data collectors , a self-defense engine which detects if attempts to detect the toolkit occur , functionality for encrypted communications , network capture programs ."
+    },
+    {
+        "trigger": "Loader",
+        "label": "C2",
+        "sen": "Loader : $IP$"
+    },
+    {
+        "trigger": "RAR archive",
+        "label": "mal",
+        "sen": "$Hash$ RAR archive"
+    },
+    {
+        "trigger": "takes users to a fake online pharmacy website",
+        "label": "Delivery",
+        "sen": "For example , here is a redirection from $Domain$ , which takes users to a fake online pharmacy website : This slideshow requires JavaScript ."
+    },
+    {
+        "trigger": "download additional components MD5",
+        "label": "C2",
+        "sen": "In the course of our research , the following Zebrocy samples were found to use the same server to download additional components MD5 : $Hash$ $Hash$"
+    },
+    {
+        "trigger": "this popup could be misconstrued by a user",
+        "label": "Delivery",
+        "sen": "As can be seen in the image above , this popup could be misconstrued by a user as an update to Java despite the $Domain$ domain and the Publisher being listed as WindySoft ."
+    },
+    {
+        "trigger": "C&amp;Cs we have seen contacted",
+        "label": "C2",
+        "sen": "C&amp;Cs we have seen contacted are $Domain$"
+    },
+    {
+        "trigger": "exploit site",
+        "label": "Exploitation",
+        "sen": "In addition , the $Domain$ exploit site resolves to $IP$ ."
+    },
+    {
+        "trigger": "Scanner IP",
+        "label": "Actions_on_Objectives",
+        "sen": "The features of this malicious campaign include : Scanner IP : $IP$ Vietnam/VN Hanoi \" AS18403"
+    },
+    {
+        "trigger": "The reverse DNS",
+        "label": "mal",
+        "sen": "The reverse DNS of the ip address “ $IP$ ” shows that it’s being hosted by Amazon , and not by Netelligent Hosting Services Inc ."
+    },
+    {
+        "trigger": "execute at a certain date",
+        "label": "Installation",
+        "sen": "This Windows service SHA256 : $Hash$ will execute at a certain date July 13 , 2015 ."
+    },
+    {
+        "trigger": "execute code",
+        "label": "Installation",
+        "sen": "The memory of many devices contains the file / bin/fotabinder $Hash$ , which can download files to user devices and execute code on them received from one of the following remote servers : adsunflower ."
+    },
+    {
+        "trigger": "distribution",
+        "label": "Delivery",
+        "sen": "Maldoc distribution URLs $URL$"
+    },
+    {
+        "trigger": "second malicious document",
+        "label": "mal",
+        "sen": "$Hash$ The second malicious document identified by FireEye consisted of two malicious stages ."
+    },
+    {
+        "trigger": "keyboard hook procedure intercepts",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ The low-level keyboard hook procedure intercepts WM_KEYDOWN , WM_KEYUP and WM _ SYSKEYDOWN system messages and writes information about each keystroke to the log file ."
+    },
+    {
+        "trigger": "resolves to an OilRig domain",
+        "label": "mal",
+        "sen": "Inspecting the class C network for $URL$ shows us that another IP on the same network resolves to an OilRig domain , $Domain$ which we identified in August 2017 ."
+    },
+    {
+        "trigger": "Password stealer",
+        "label": "Actions_on_Objectives",
+        "sen": "Password stealer $Hash$ Will attempt to harvest stored module credentials from the victim NTLM stealer ."
+    },
+    {
+        "trigger": "initial PowerShell loader",
+        "label": "Installation",
+        "sen": "$Domain$ of the sample around the time we found the initial PowerShell loader ."
+    },
+    {
+        "trigger": "trigger the exploit",
+        "label": "Exploitation",
+        "sen": "http://website.invalid.com/wp-admin/options-general.php?page=plugin-settings&amp;tab=\"&gt;&lt;script&gt;alertdocument.domain&lt;/script&gt ; Since the link is for the same website , an unsuspecting administrator might be tempted to click on it — an action which would trigger the exploit on his own account ."
+    },
+    {
+        "trigger": "perform directory listings",
+        "label": "Actions_on_Objectives",
+        "sen": "This proxy $Hash$ tool has basic backdoor functionality , including the ability to fingerprint the victim machine , run remote commands , perform directory listings , perform process listings , and transfer files ."
+    },
+    {
+        "trigger": "compromised with the same malicious code",
+        "label": "Delivery",
+        "sen": "In the last week , Volexity also observed both the English and Chinese language websites for the Democratic Party Hong Kong compromised with the same malicious code found ont he ATD website $Domain$ | $Domain$ ."
+    },
+    {
+        "trigger": "to the collected interfaces",
+        "label": "Actions_on_Objectives",
+        "sen": "First , it enumerates the network interfaces and adds collected IPs to the list : Then , it adds a new IP as a DNS $IP$ to the collected interfaces ."
+    },
+    {
+        "trigger": "was downloaded from the same malicious domain",
+        "label": "mal",
+        "sen": "When we analyzed a FakeSpy sample $Hash$ over a month later , we discovered that it was downloaded from the same malicious domain ."
+    },
+    {
+        "trigger": "injects into svchost",
+        "label": "Installation",
+        "sen": "It injects into svchost the initial module $Hash$ ."
+    },
+    {
+        "trigger": "Malicious document",
+        "label": "mal",
+        "sen": "Malicious document $Hash$"
+    },
+    {
+        "trigger": "ELF 32-bit LSB executable",
+        "label": "Installation",
+        "sen": "$Hash$ ELF 32-bit LSB executable , Intel 80386 , version 1 SYSV , statically linked , stripped Lib :"
+    },
+    {
+        "trigger": "Detected by Trend Micro",
+        "label": "mal",
+        "sen": "Detected by Trend Micro as Ransom_CRYPTLOCK.DLFLVS $Hash$ Detected by Trend Micro as"
+    },
+    {
+        "trigger": "on a scam information website",
+        "label": "Delivery",
+        "sen": "$Domain$ is WHOIS protected , with no significant pDNS , but the email they used with us , $Email$ , was partially reused on their last scam iteration in July , as seen below on a scam information website :"
+    },
+    {
+        "trigger": "for C2",
+        "label": "C2",
+        "sen": "This sample is detected as Backdoor.APT.Preshin and connected to $Domain$ for C2 ."
+    },
+    {
+        "trigger": "prevent malicious attackers from exploiting this bug",
+        "label": "benign",
+        "sen": "“ As a responsible and protective measure , we bought 27 ‘ urehubs ’ domains with different suffixes to prevent malicious attackers from exploiting this bug , including $Domain$ , $Domain$ , $Domain$ , etc , ” researchers wrote ."
+    },
+    {
+        "trigger": "are usually legitimate",
+        "label": "benign",
+        "sen": "Mail sent from $IP$ and $IP$ are usually legitimate ."
+    },
+    {
+        "trigger": "Indicators of Compromise",
+        "label": "mal",
+        "sen": "Indicators of Compromise URLs and domains to block : $URL$"
+    },
+    {
+        "trigger": "connecting to a related command and control server at",
+        "label": "C2",
+        "sen": "We also observed another “ HTTPS ” Gh0st variant connecting to a related command and control server at $Domain$ ."
+    },
+    {
+        "trigger": "malicious script is hidden at",
+        "label": "Delivery",
+        "sen": "The malicious script is hidden at $URL$ ."
+    },
+    {
+        "trigger": "C2s",
+        "label": "C2",
+        "sen": "MD5 Family Compile Alternate C2s Time $Hash$ PlugX 2012-06-09 $Domain$ ."
+    },
+    {
+        "trigger": "Indicators of Compromise",
+        "label": "mal",
+        "sen": "Indicators of Compromise App URL SHA256 $Domain$ $Hash$"
+    },
+    {
+        "trigger": "Main Executable loader",
+        "label": "Installation",
+        "sen": "Main Executable loader $Hash$"
+    },
+    {
+        "trigger": "drops",
+        "label": "Installation",
+        "sen": "CVE-2017-11882.H RTF file that drops $Hash$"
+    },
+    {
+        "trigger": "The malware exfiltrates to an online e-mail account",
+        "label": "Actions_on_Objectives",
+        "sen": "The malware exfiltrates to an online e-mail account $Email$, thus not requiring the attacker to maintain a command and control server online ."
+    },
+    {
+        "trigger": "final payload",
+        "label": "Installation",
+        "sen": "$Hash$ – Kronos final payload & lt ; - main focus of this analysis"
+    },
+    {
+        "trigger": "exploit the vulnerability",
+        "label": "Exploitation",
+        "sen": "Eventually , on November 4th , the attackers started to exploit the vulnerability : $IP$ - - 04/Nov/2019:10:55:18 - 0500"
+    },
+    {
+        "trigger": "C2",
+        "label": "C2",
+        "sen": "BYEBY C2 $Domain$"
+    },
+    {
+        "trigger": "malicious domains",
+        "label": "mal",
+        "sen": "It’s also worth mentioning that several of malicious domains described in that post had the pw TLD $Domain$ , $Domain$ which all point to servers on the network of the Russian Llc Management Company Svyaz $IP$ ,"
+    },
+    {
+        "trigger": "Backdoor",
+        "label": "Installation",
+        "sen": "DOFLOO.AB $Hash$ Backdoor ."
+    },
+    {
+        "trigger": "Botnet officially ran by Ankit Anubhav and hosted on",
+        "label": "C2",
+        "sen": "Botnet officially ran by Ankit Anubhav and hosted on $Domain$"
+    },
+    {
+        "trigger": "Trojan",
+        "label": "Installation",
+        "sen": "AESDDOS.J $Hash$ Trojan ."
+    },
+    {
+        "trigger": "connected to the domain",
+        "label": "C2",
+        "sen": "The Poison Ivy variants that connected to the domain $Domain$ had the following unique configuration properties ."
+    },
+    {
+        "trigger": "observed malicious code being served up from the website",
+        "label": "Delivery",
+        "sen": "Alliance for True Democracy â € “ Hong Kong Over the last two days , Volexity has observed malicious code being served up from the website of the Alliance for True Democracy ATD in Hong Kong $Domain$ ."
+    },
+    {
+        "trigger": "loader",
+        "label": "Installation",
+        "sen": "$Hash$ – loader"
+    },
+    {
+        "trigger": "check for specific builds of the Windows kernel",
+        "label": "Actions_on_Objectives",
+        "sen": "The driver $Hash$ also contains routines to check for specific builds of the Windows kernel in use , including very old versions such as for Windows NT4 Terminal Server and Windows 2000 , and then adapts its behavior accordingly ."
+    },
+    {
+        "trigger": "the malware",
+        "label": "mal",
+        "sen": "For this sample , the malware creates the mutex $Hash$ ."
+    },
+    {
+        "trigger": "IP resolution of",
+        "label": "mal",
+        "sen": "The passive DNS data for the subdomains shows an IP resolution of $IP$ from December 2017 through January 2018 ."
+    },
+    {
+        "trigger": "exploit kit",
+        "label": "Exploitation",
+        "sen": "Redirect URL examples used between malvertisement and exploit kit controlled domains $IP$ /"
+    },
+    {
+        "trigger": "For more information",
+        "label": "benign",
+        "sen": "For more information , contact $Email$"
+    },
+    {
+        "trigger": "malware follow-up malware",
+        "label": "mal",
+        "sen": "File description : Kovter malware follow-up malware retrieved by plugin.js on April 14th SHA256 hash : $Hash$"
+    },
+    {
+        "trigger": "C2 URLs",
+        "label": "C2",
+        "sen": "C2 URLs $URL$"
+    },
+    {
+        "trigger": "collecting information and credentials from the victim",
+        "label": "Actions_on_Objectives",
+        "sen": "Dropping and executing scripts $Hash$ for collecting information and credentials from the victim organization’s Active Directory environment ."
+    },
+    {
+        "trigger": "Trojan example",
+        "label": "Installation",
+        "sen": "Trojan example Our example is a well-known Trojan called 1.exe with SHA256 $Hash$"
+    },
+    {
+        "trigger": "Flash Helper Service Detection Name",
+        "label": "mal",
+        "sen": "Typical Filename : FlashHelperServices.exe Claimed Product : Flash Helper Service Detection Name : W32.7F9446709F-100.SBX.VIOC SHA 256 : $Hash$ MD5 : $Hash$ Typical Filename : qmreportupload.exe Claimed Product : qmreportupload Detection Name : Win ."
+    },
+    {
+        "trigger": "Payload Locations",
+        "label": "Installation",
+        "sen": "MM Core Payload Locations $URL$"
+    },
+    {
+        "trigger": "proceeds to download a file from",
+        "label": "C2",
+        "sen": "It executes an encoded PowerShell command that proceeds to download a file from $URL$ , saves it to the temporary folder as upgrader.exe and executes it ."
+    },
+    {
+        "trigger": "monitors any attached removable media",
+        "label": "Actions_on_Objectives",
+        "sen": "Apart from doing a recursive sweep of all logical fixed and remote drives , it $Hash$ also continually monitors any attached removable media or network shares by listening to DBT_DEVICEARRIVAL events ."
+    },
+    {
+        "trigger": "communicate back with",
+        "label": "C2",
+        "sen": "Due to the need to supply credentials and communicate back with $Domain$ Figure 20 , we did not pursue further analysis of DarkCrystalServer ."
+    },
+    {
+        "trigger": "for its C&amp;C server",
+        "label": "C2",
+        "sen": "One interesting change is that the Skipper communication module uses the server that hosts this campaign’s remote JavaScripts and malicious binaries for its C&amp;C server , specifically $Domain$"
+    },
+    {
+        "trigger": "point to the same server",
+        "label": "mal",
+        "sen": "All domains point to the same server $IP$ in Russia ."
+    },
+    {
+        "trigger": "communicate with",
+        "label": "C2",
+        "sen": "Meterpreter then loaded Cobalt Strike BEACON , configured to communicate with $IP$ using the Safebrowsing malleable C2 profile to further blend in with network traffic ."
+    },
+    {
+        "trigger": "mimic the Tidhar Group",
+        "label": "Delivery",
+        "sen": "$Domain$ is likely intended to mimic the Tidhar Group , an Israeli based real estate and property management company ."
+    },
+    {
+        "trigger": "contains information including the victim’s hostname and IP address",
+        "label": "Actions_on_Objectives",
+        "sen": "The Base64-encoded data still contains information including the victim’s hostname and IP address but also the threat actors use $Hash$ to keep track of their various attacks ."
+    },
+    {
+        "trigger": "Payload Recam",
+        "label": "Installation",
+        "sen": "Payload Recam : $Hash$"
+    },
+    {
+        "trigger": "send stolen data",
+        "label": "Actions_on_Objectives",
+        "sen": "At the final stage , the scripts send stolen data as encrypted GET parameters to $URL$ a common Google Tag Manager impersonation trick , which is hosted on the server $IP$ in Russia same subnetwork ."
+    },
+    {
+        "trigger": "the domain used to host its malware",
+        "label": "C2",
+        "sen": "A History of Exploits Hoaxcalls first emerged in late March , as a variant of the Gafgyt/Bashlite family ; it’s named after the domain used to host its malware , $Domain$ ."
+    },
+    {
+        "trigger": "Dropper SHA1",
+        "label": "Installation",
+        "sen": "Dropper SHA1 Protocol Domain/IP Path Port $Hash$ HTTP www.sanjosemaristas ."
+    },
+    {
+        "trigger": "hosts the download scripts first stage and main payload",
+        "label": "C2",
+        "sen": "The Windows version see details below uses the IP $IP$ as the dropper site , which hosts the download scripts first stage and main payload ."
+    },
+    {
+        "trigger": "downloader a doc",
+        "label": "Installation",
+        "sen": "$Hash$ – downloader a doc with a malicious macro"
+    },
+    {
+        "trigger": "malicious QUADAGENT C2 Domains",
+        "label": "C2",
+        "sen": "WildFire classifies QUADAGENT samples as malicious QUADAGENT C2 Domains have been classified as malicious AutoFocus customers can track QUADAGENT via its corresponding tag IOCs SHA256 Hashes QUADAGENT $Hash$"
+    },
+    {
+        "trigger": "invisible iframe",
+        "label": "Delivery",
+        "sen": "Once decoded , it shows as an invisible iframe 1×1 pixel to $URL$ ."
+    },
+    {
+        "trigger": "execute a PowerShell one-liner",
+        "label": "Installation",
+        "sen": "$Hash$ does nothing but execute a PowerShell one-liner to retrieve additional malicious content for execution ."
+    },
+    {
+        "trigger": "redirects to",
+        "label": "Delivery",
+        "sen": "We first observed redirects to RIG EK on Mar . 10 , 2018 , from the compromised domain , $Domain$ , which had a malicious iframe injected to it Figure 2 ."
+    },
+    {
+        "trigger": "is a keylogger tool",
+        "label": "Actions_on_Objectives",
+        "sen": "This is a keylogger tool $Hash$ that creates % temp%\\~DFD3O8.tmp ."
+    },
+    {
+        "trigger": "URL distributing the trojanized application",
+        "label": "Delivery",
+        "sen": "URL distributing the trojanized application at the time of discovery : $URL$"
+    },
+    {
+        "trigger": "malware URLs disguised as Microsoft Office plugin",
+        "label": "Delivery",
+        "sen": "Examples of malware URLs disguised as Microsoft Office plugin : $URL$"
+    },
+    {
+        "trigger": "including very old versions",
+        "label": "Actions_on_Objectives",
+        "sen": "The driver $Hash$ also contains routines to check for specific builds of the Windows kernel in use , including very old versions such as for Windows NT4 Terminal Server and Windows 2000 , and then adapts its behavior accordingly ."
+    },
+    {
+        "trigger": "C2 serve",
+        "label": "C2",
+        "sen": "Once decoded , the commands will attempt to download the POSHC2 binaries from yet another new C2 serve $URL$ ."
+    },
+    {
+        "trigger": "stealing login credentials from the victim machine",
+        "label": "Actions_on_Objectives",
+        "sen": "We have , for instance , observed components $Hash$ dedicated to stealing login credentials from the victim machine and components dedicated to gathering further information on the compromised system like the presence of antivirus software or a firewall ."
+    },
+    {
+        "trigger": "the dropper original dropped sample",
+        "label": "Installation",
+        "sen": "Analyzed samples $Hash$ – the dropper original dropped sample $Hash$ – infpub.dat – the main DLL $Hash$ – cscc.dat – legitimate driver used for the disk encryption $Domain$"
+    },
+    {
+        "trigger": "questions please email",
+        "label": "benign",
+        "sen": "If you have any suggestions or questions please email $Email$"
+    },
+    {
+        "trigger": "Senders",
+        "label": "Delivery",
+        "sen": "Senders : $Email$"
+    },
+    {
+        "trigger": "malware has been circulating undetected",
+        "label": "mal",
+        "sen": "$Hash$ There are other indications that this malware has been circulating undetected for a long time ."
+    },
+    {
+        "trigger": "The Bitcoin monitor plugin",
+        "label": "Actions_on_Objectives",
+        "sen": "The Bitcoin monitor plugin $Hash$ is even more amusing ."
+    },
+    {
+        "trigger": "harvesting files off the victim’s hard drive",
+        "label": "Actions_on_Objectives",
+        "sen": "This malware $Hash$, written in C , and contains several functions for harvesting files off the victim’s hard drive according to criteria set in the configuration file ."
+    },
+    {
+        "trigger": "connects to",
+        "label": "C2",
+        "sen": "It is written in Delphi and connects to $Domain$ ."
+    },
+    {
+        "trigger": "its C2 server hidden behind the portmap platform",
+        "label": "C2",
+        "sen": "The C2 server in this case is $Domain$ , which pointed to an Algerian ISP : RevengeRAT was the payload in the English campaign , with its C2 server hidden behind the portmap platform wh-32248.portmap.io ."
+    },
+    {
+        "trigger": "malware has received approximate 1MB of data",
+        "label": "C2",
+        "sen": "After this session - by which time the malware has received approximate 1MB of data - the destination IP of the HTTP GET requests changes $IP$ - AS8560 ; ONEANDONE-AS , DE and the responses become shorter , as shown below ."
+    },
+    {
+        "trigger": "plays on the PopCash name",
+        "label": "Delivery",
+        "sen": "For example , this fake Cloudflare domain $Domain$ also plays on the PopCash name :"
+    },
+    {
+        "trigger": "File Hashes",
+        "label": "mal",
+        "sen": "File Hashes $Hash$"
+    },
+    {
+        "trigger": "was redirected throgh",
+        "label": "Delivery",
+        "sen": "This traffic indicates the app used several redirects : The advertisement came from $Domain$ , was redirected throgh go2affise.com and finally landed on $Domain$ ."
+    },
+    {
+        "trigger": "C2",
+        "label": "C2",
+        "sen": "C2 : $Domain$"
+    },
+    {
+        "trigger": "C2",
+        "label": "C2",
+        "sen": "C2 : $Domain$ C2 : $Domain$ C2 : $Domain$ C2 : $Domain$ ."
+    },
+    {
+        "trigger": "download another executable from the C&amp;C server",
+        "label": "C2",
+        "sen": "This Windows service SHA256 : $Hash$ will download another executable from the C&amp;C server ."
+    },
+    {
+        "trigger": "specific BMP is downloaded from the following location",
+        "label": "C2",
+        "sen": "The specific BMP is downloaded from the following location : $URL$"
+    },
+    {
+        "trigger": "Hacktool",
+        "label": "Installation",
+        "sen": "$Hash$ Hacktool"
+    },
+    {
+        "trigger": "the C2 domain",
+        "label": "C2",
+        "sen": "Also the C2 domain $Domain$ was previously used in their campaigns ."
+    },
+    {
+        "trigger": "downloading the dropper from",
+        "label": "C2",
+        "sen": "The network traffic of Powershell downloading the dropper from $URL$"
+    },
+    {
+        "trigger": "associated with this campaign",
+        "label": "mal",
+        "sen": "The following IPs have also been associated with this campaign : $IP$ $IP$ $IP$"
+    },
+    {
+        "trigger": "Malvertising domain",
+        "label": "mal",
+        "sen": "Malvertising domain $Domain$"
+    },
+    {
+        "trigger": "the keylogger starts",
+        "label": "Actions_on_Objectives",
+        "sen": "If failed , $Hash$ tries to write to the file f:\\keyhook.log Each time the keylogger starts ."
+    },
+    {
+        "trigger": "Upload the file",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ upload the file chosen by the Choose File button and save it to a temporary table in the database file worktbl in chunks of 10240 bytes ."
+    },
+    {
+        "trigger": "a malicious RULER.HOMEPAGE payload hosted at",
+        "label": "C2",
+        "sen": "On Dec . 13 , 2018 , Advanced Practices proactively identified and attributed a malicious RULER.HOMEPAGE payload hosted at $URL$ MD5 : $Hash$ ."
+    },
+    {
+        "trigger": "exploit",
+        "label": "Exploitation",
+        "sen": "$Hash$ CAPESAND exploit $CVE$ Trojan."
+    },
+    {
+        "trigger": "exploits a known Windows privilege escalation vulnerability",
+        "label": "Exploitation",
+        "sen": "In order to carry out this operation , it uses publicly available tools , including Mimikatz Hacktool.Mimikatz and an open-source tool SHA2 : $Hash$ that exploits a known Windows privilege escalation vulnerability $CVE$ on unpatched computers ."
+    },
+    {
+        "trigger": "Loader",
+        "label": "Installation",
+        "sen": "Related Indicators of Compromise IOCs Phorpiex Loader SHA256 $Hash$"
+    },
+    {
+        "trigger": "redirected to a Java exploit kit",
+        "label": "Exploitation",
+        "sen": "During another earlier compromise of website , visitors were redirected to a Java exploit kit MD5 $Hash$ ."
+    },
+    {
+        "trigger": "malware distributed from",
+        "label": "C2",
+        "sen": "“ At this point , we are pretty sure that this Yandex profile is related to the scat01 profile we found on the Russian underground forum…as well as to the malware distributed from $Domain$ , ” the researchers noted ."
+    },
+    {
+        "trigger": "identified the server",
+        "label": "mal",
+        "sen": "For example , our team identified the server $IP$ and domain $Domain$ within hours of it being established ."
+    },
+    {
+        "trigger": "connection to the attacker's server and downloads",
+        "label": "C2",
+        "sen": "The victim is therefore forced to initiate a nc connection to the attacker's server and downloads $malware_family$"
+    },
+    {
+        "trigger": "Retrieved from",
+        "label": "benign",
+        "sen": "Retrieved from \" https://www.botnets.fr/index.php?title=Lukitus&amp;oldid=14146 \""
+    },
+    {
+        "trigger": "Backdoor",
+        "label": "Installation",
+        "sen": "Syskit $Hash$ Backdoor ."
+    },
+    {
+        "trigger": "The network traffic of Powershell",
+        "label": "C2",
+        "sen": "The network traffic of Powershell downloading the dropper from $URL$"
+    },
+    {
+        "trigger": "The C2 server",
+        "label": "C2",
+        "sen": "The C2 server in this case is $Domain$ , which pointed to an Algerian ISP : RevengeRAT was the payload in the English campaign , with its C2 server hidden behind the portmap platform wh-32248.portmap.io ."
+    },
+    {
+        "trigger": "installer",
+        "label": "Installation",
+        "sen": ". NET installer $Hash$"
+    },
+    {
+        "trigger": "Disdain exploit kit IP address",
+        "label": "Exploitation",
+        "sen": "Disdain exploit kit IP address $Domain$"
+    },
+    {
+        "trigger": "C2",
+        "label": "C2",
+        "sen": "OopsIE C2 $Domain$"
+    },
+    {
+        "trigger": "TrickBot loader URL",
+        "label": "C2",
+        "sen": "sin.png TrickBot loader URL $URL$"
+    },
+    {
+        "trigger": "include data collectors",
+        "label": "Actions_on_Objectives",
+        "sen": "These modules $Hash$ can include data collectors , a self-defense engine which detects if attempts to detect the toolkit occur , functionality for encrypted communications , network capture programs ."
+    },
+    {
+        "trigger": "trick the user",
+        "label": "Delivery",
+        "sen": "In at least one case , they tried to trick the user into downloading and running a fake Microsoft Security Essentials app MD5 : $Hash$ ."
+    },
+    {
+        "trigger": "Most prevalent malware files",
+        "label": "mal",
+        "sen": "Most prevalent malware files this weekSHA 256 : $Hash$ MD5 : $Hash$ Typical Filename : wupxarch635.exe"
+    },
+    {
+        "trigger": "sample from",
+        "label": "mal",
+        "sen": "$Hash$ – sample from the Lexsi article"
+    },
+    {
+        "trigger": "submitted to VirusTotal",
+        "label": "mal",
+        "sen": "Sample $Hash$ was submitted to VirusTotal on May 23 , 2018 ."
+    },
+    {
+        "trigger": "Privilege escalation vulnerability",
+        "label": "Exploitation",
+        "sen": "$CVE$ - Privilege escalation vulnerability in Windows XP and Windows 2003 $CVE$ - Arbitrary code-execution vulnerability in Adobe Reader ."
+    },
+    {
+        "trigger": "reach the actual downloading code which uses",
+        "label": "C2",
+        "sen": "When the base64 command-line option is decoded , we reach the actual downloading code which uses $Domain$ to first disable Windows Defender , stop Windows update , download and execute the next malware stage using the Invoke-Expression cmdlet ."
+    },
+    {
+        "trigger": "Decoy document",
+        "label": "Delivery",
+        "sen": "Decoy document $Hash$"
+    },
+    {
+        "trigger": "malicious RTF document",
+        "label": "mal",
+        "sen": "All IOCs are in the appendix of this blog Recent Attacks One of the most recent attacks that Unit 42 found related to this campaign consisted of a malicious RTF document was served on November 8 , 2017 with the following SHA256 hash : $Hash$"
+    },
+    {
+        "trigger": "Malicious RTF",
+        "label": "mal",
+        "sen": "Malicious RTF $Hash$"
+    },
+    {
+        "trigger": "ransomware",
+        "label": "Installation",
+        "sen": "Below are the SHA256 hashes related to this ransomware : $Hash$ $Hash$"
+    },
+    {
+        "trigger": "hosted on",
+        "label": "C2",
+        "sen": "Botnet officially ran by Ankit Anubhav and hosted on $Domain$"
+    },
+    {
+        "trigger": "connects to both",
+        "label": "C2",
+        "sen": "For example , $Hash$ drops a KernelBot variant that connects to both $Domain$ and $Domain$ ."
+    },
+    {
+        "trigger": "bypassing address space layout randomization ASLR",
+        "label": "Exploitation",
+        "sen": "$CVE$ gain access to memory from Flash ActionScript , bypassing address space layout randomization ASLR Pivot to a return-oriented programing ROP exploit technique to bypass data execution prevention DEP ."
+    },
+    {
+        "trigger": "based on the sample",
+        "label": "mal",
+        "sen": "Our analysis is based on the sample with SHA-1 $Hash$ ."
+    },
+    {
+        "trigger": "distribution of malicious code",
+        "label": "Delivery",
+        "sen": "Checking the Google SafeBrowsing results for * . $Domain$ , shows that the domain was used for distribution of malicious code for a significant period after our previous blog entry : This includes distribution via $Domain$ ."
+    },
+    {
+        "trigger": "loads the credit card stealing code",
+        "label": "Actions_on_Objectives",
+        "sen": "The malicious script loads the credit card stealing code from $Domain$ and sends the stolen details to $URL$ ."
+    },
+    {
+        "trigger": "Malware MD5",
+        "label": "mal",
+        "sen": "Muhstik Malware MD5 $Hash$"
+    },
+    {
+        "trigger": "which beacons to",
+        "label": "C2",
+        "sen": "Filename : main.dll File size : 13824 bytes MD5 hash : $Hash$ SHA1 hash : $Hash$ Notes : 32-bit version of malware , which beacons to $URL$ ."
+    },
+    {
+        "trigger": "utilized the malicious domain",
+        "label": "mal",
+        "sen": "In that operation , the Scanbox code was placed on the website of a U.S.-based think tank and utilized the malicious domain , $Domain$ ."
+    },
+    {
+        "trigger": "WHOIS information",
+        "label": "mal",
+        "sen": "The WHOIS information of the www version of $Domain$ is not currently hosted by Amazon ."
+    },
+    {
+        "trigger": "File Hashes",
+        "label": "mal",
+        "sen": "File Hashes $Hash$"
+    },
+    {
+        "trigger": "registration email is",
+        "label": "mal",
+        "sen": "$Domain$ ’s registration email is $Email$ ."
+    },
+    {
+        "trigger": "the exploit Payload",
+        "label": "Exploitation",
+        "sen": "$URL$ is the exploit Payload ."
+    },
+    {
+        "trigger": "backdoor",
+        "label": "Installation",
+        "sen": "M.E.Doc ZvitPublishedObjects.dll files with backdoor : $Hash$"
+    },
+    {
+        "trigger": "the actor leveraging new infrastructure",
+        "label": "mal",
+        "sen": "In March 2019 , for instance , researchers observed the actor leveraging new infrastructure , including various subdomains of the domain $Domain$ ."
+    },
+    {
+        "trigger": "FIN6 exfiltration server URL",
+        "label": "Actions_on_Objectives",
+        "sen": "Attribution Detection name $Domain$ FIN6 exfiltration server domain https://$Domain$/analytics/beacon FIN6 exfiltration server URL $URL$"
+    },
+    {
+        "trigger": "executed a PowerShell one-liner",
+        "label": "Installation",
+        "sen": "This communication retrieved an executable created with Aut2Exe MD5 : $Hash$ , and executed a PowerShell one-liner to retrieve further malicious content ."
+    },
+    {
+        "trigger": "For more information on CrowdStrike’s Incident Response",
+        "label": "benign",
+        "sen": "For more information on CrowdStrike’s Incident Response , Compromise Assessment or Threat Hunting offerings , visit the CrowdStrike Services page or please reach out to us via $Email$ Download the CrowdStrike 2020 Global Threat Report ."
+    },
+    {
+        "trigger": "Samples with Sonicwall GMS exploit",
+        "label": "Exploitation",
+        "sen": "Samples with Sonicwall GMS exploit $CVE$ $Hash$ $Hash$ $Hash$"
+    },
+    {
+        "trigger": "techniques to compromise victims",
+        "label": "Delivery",
+        "sen": "# Tortoiseshell group uses custom malware , off-the-shelf tools , # livingofftheland techniques to compromise victims $URL$ \" Click to TweetAnother notable element of this attack"
+    },
+    {
+        "trigger": "download and execute their malware from",
+        "label": "C2",
+        "sen": "Our own analysis revealed that the cybercriminals behind Miori used the ThinkPHP RCE to make vulnerable machines download and execute their malware from $URL$ 1 ."
+    },
+    {
+        "trigger": "launched a DDoS attack against",
+        "label": "benign",
+        "sen": "We observed the sample in the sandbox launched a DDoS attack against $IP$ around 2017-04-23 21:45:00"
+    },
+    {
+        "trigger": "The passive DNS",
+        "label": "mal",
+        "sen": "The passive DNS data for the subdomains shows an IP resolution of $IP$ from December 2017 through January 2018 ."
+    },
+    {
+        "trigger": "Indicators of compromise",
+        "label": "mal",
+        "sen": "Indicators of compromise Magniber : $Hash$"
+    },
+    {
+        "trigger": "Dropper",
+        "label": "Installation",
+        "sen": "Dropper # 3 : $Hash$"
+    },
+    {
+        "trigger": "are registered through",
+        "label": "benign",
+        "sen": "Free domains are mostly DDNS from No-IP : $Domain$ , $Domain$ , $Domain$ , while paid domains are registered through the REG.RU registrar and include the fun , site , space , ru , website and xyz TLDs ."
+    },
+    {
+        "trigger": "downloaded and executed Meterpreter hosted on",
+        "label": "C2",
+        "sen": "sct ” file extension that downloaded and executed Meterpreter hosted on $Domain$ ."
+    },
+    {
+        "trigger": "to exfiltrate",
+        "label": "Actions_on_Objectives",
+        "sen": "That incident , observed in 2012 , also used hardcoded e-mail $Email$ to exfiltrate ."
+    },
+    {
+        "trigger": "downloads and launches a clipboard modification trojan from",
+        "label": "C2",
+        "sen": "The loader then downloads and launches a clipboard modification trojan from $Domain$ with the filename clp.exe in the user's temporary folder ."
+    },
+    {
+        "trigger": "Sample SHA256 Hashes",
+        "label": "mal",
+        "sen": "Sample SHA256 Hashes : $Hash$"
+    },
+    {
+        "trigger": "transfer files",
+        "label": "Actions_on_Objectives",
+        "sen": "This proxy $Hash$ tool has basic backdoor functionality , including the ability to fingerprint the victim machine , run remote commands , perform directory listings , perform process listings , and transfer files ."
+    },
+    {
+        "trigger": "as an information stealer and reconnaissance tool",
+        "label": "Actions_on_Objectives",
+        "sen": "Once it has reached its target , the payload $Hash$ used was designed to work as an information stealer and reconnaissance tool ."
+    },
+    {
+        "trigger": "a Poison Ivy payload with the hash MD5",
+        "label": "Installation",
+        "sen": "This jar file exploited CVE-2012-0507 and dropped a Poison Ivy payload with the hash MD5 $Hash$ ."
+    },
+    {
+        "trigger": "redirect traffic to",
+        "label": "Delivery",
+        "sen": "This domain is currently configured to redirect traffic to the main $Domain$ domain ."
+    },
+    {
+        "trigger": "detected about 50 new applications infected by",
+        "label": "Delivery",
+        "sen": "In Google Play in October and November , we detected about 50 new applications infected by $URL$ ."
+    },
+    {
+        "trigger": "mobile banking Trojan",
+        "label": "Installation",
+        "sen": "$Hash$ became the most popular mobile banking Trojan in Q3 , replacing the long-term leader Trojan-Banker."
+    },
+    {
+        "trigger": "massive spam campaign",
+        "label": "Delivery",
+        "sen": "From August to December 2016 , IP address $IP$ participated in a massive spam campaign , being one of the 80,000 unique spam-sending nodes worldwide ."
+    },
+    {
+        "trigger": "fake Microsoft Microsoft Word Online pages",
+        "label": "Delivery",
+        "sen": "Examples of fake Microsoft Microsoft Word Online pages : $URL$"
+    },
+    {
+        "trigger": "batch script deployed",
+        "label": "Installation",
+        "sen": "The earliest iteration we identified of the shared kill list was a batch script deployed alongside LockerGoga MD5 : $Hash$"
+    },
+    {
+        "trigger": "downloaded a second stage documen from",
+        "label": "C2",
+        "sen": "Seminar.rtf ” downloaded a second stage documen from : $URL$"
+    },
+    {
+        "trigger": "the Skipper communication module uses the server",
+        "label": "C2",
+        "sen": "One interesting change is that the Skipper communication module uses the server that hosts this campaign’s remote JavaScripts and malicious binaries for its C&amp;C server , specifically $Domain$"
+    },
+    {
+        "trigger": "Downloader Chafer",
+        "label": "Installation",
+        "sen": "Downloader Chafer $Hash$ Exemyr Chafer $Hash$"
+    },
+    {
+        "trigger": "Dropper",
+        "label": "Installation",
+        "sen": "Here are the sample hashes that were analyzed : Dropper : $Hash$ infpub.dat :"
+    },
+    {
+        "trigger": "keylogger loader",
+        "label": "Actions_on_Objectives",
+        "sen": "Since $Domain$ is located on the same server as $Domain$ , this kl.js is the same WordPress keylogger we described in the previous section – this helps us to translate the klldr.js filename as “ keylogger loader ” ."
+    },
+    {
+        "trigger": "used upx packing",
+        "label": "Installation",
+        "sen": "It is worth mentioning that in the first version Mozisample md5 : $Hash$ used upx packing ."
+    },
+    {
+        "trigger": "related to Cmstar C2 domains",
+        "label": "C2",
+        "sen": "Further analysis revealed that additional domains related to Cmstar C2 domains were also originally registered using the email address ‘ $Email$ ’ and updated to the current information within a few days ."
+    },
+    {
+        "trigger": "C&amp;C",
+        "label": "C2",
+        "sen": "$IP$ Powemuddy C&amp;C"
+    },
+    {
+        "trigger": "been identified as C&C domains",
+        "label": "C2",
+        "sen": "This is significant because the domains $Domain$ and $Domain$ have previously been identified as C&C domains used by MiniDuke ."
+    },
+    {
+        "trigger": "C2 URL",
+        "label": "C2",
+        "sen": "C2 URL $Domain$ Resolution $IP$ ."
+    },
+    {
+        "trigger": "Coinminer",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ Coinminer"
+    },
+    {
+        "trigger": "creates a Run key",
+        "label": "Exploitation",
+        "sen": "$Hash$ File Size 107,008 bytes Compile Time 2/4/2015 8:41:42 UTC The malware does not execute immediately after successful exploitation and instead just creates a Run key in the current user's hive which will execute the next time the victim user accesses the system ."
+    },
+    {
+        "trigger": "C2 destination information",
+        "label": "C2",
+        "sen": "• readme.txt – a binary file which contains the XOR-encoded KernelBot DLL as well as C2 destination information most have md5 hash of $Hash$ ."
+    },
+    {
+        "trigger": "malware campaigns",
+        "label": "Delivery",
+        "sen": "Finally landing on $URL$ , also related to malware campaigns"
+    },
+    {
+        "trigger": "C2 profile",
+        "label": "C2",
+        "sen": "Meterpreter then loaded Cobalt Strike BEACON , configured to communicate with $IP$ using the Safebrowsing malleable C2 profile to further blend in with network traffic ."
+    },
+    {
+        "trigger": "C2",
+        "label": "C2",
+        "sen": "C2 : $Domain$"
+    },
+    {
+        "trigger": "infected sites",
+        "label": "Delivery",
+        "sen": "PublicWWW has already identified relatively few infected sites : 129 websites for $Domain$ and 103 websites for $Domain$ , but it’s likely that the majority of the websites have not been indexed yet ."
+    },
+    {
+        "trigger": "Mozisample md5",
+        "label": "Installation",
+        "sen": "It is worth mentioning that in the first version Mozisample md5 : $Hash$ used upx packing ."
+    },
+    {
+        "trigger": "Domain Names contacted by malware",
+        "label": "C2",
+        "sen": "$IP$ Domain Names contacted by malware ."
+    },
+    {
+        "trigger": "HTTP payload",
+        "label": "Installation",
+        "sen": "Besides the HTTP payload , which is an AES 256 ECB encrypted PE file after decrypting , SHA256 : $Hash$ , the server reply contains only one other HTTP header that seems to be used by the malware"
+    },
+    {
+        "trigger": "After various testing",
+        "label": "mal",
+        "sen": "After various testing , we are confident that this is also the IP address where the main $Domain$ website is hosted ."
+    },
+    {
+        "trigger": "execution artifact",
+        "label": "Installation",
+        "sen": "$Hash$ MAZE execution artifact $Hash$"
+    },
+    {
+        "trigger": "Listening Implant",
+        "label": "Actions_on_Objectives",
+        "sen": "This SMB Worm Tool $Hash$ is equipped with a Listening Implant , Lightweight Backdoor , Proxy Tool , Destructive Hard Drive Tool , and Destructive Target Cleaning Tool ."
+    },
+    {
+        "trigger": "Mori backdoor",
+        "label": "Installation",
+        "sen": "csidl_system_drive\\program files\\nfc fml.dll $Hash$ Mori backdoor"
+    },
+    {
+        "trigger": "C2 domain",
+        "label": "C2",
+        "sen": "Server musl.lib # C2 domain , resolved by EmerDNS , a block-chain DNS musl.lib:7000 currently resolves to 66.42.57.457000 # Singapore/SG Singapore # Current C2 IP and port $Domain$ # Related C2 domain"
+    },
+    {
+        "trigger": "the Manuscrypt variants",
+        "label": "mal",
+        "sen": "We’ve seen that one of the Manuscrypt variants $Hash$ shares a similar configuration structure with the MATA framework ."
+    },
+    {
+        "trigger": "a fake Microsoft Security Essentials app",
+        "label": "Delivery",
+        "sen": "In at least one case , they tried to trick the user into downloading and running a fake Microsoft Security Essentials app MD5 : $Hash$ ."
+    },
+    {
+        "trigger": "Downloader",
+        "label": "Installation",
+        "sen": "AUT2EXE Downloader Compiled $Hash$ 2017-11-14 14:55:14 GroupA –"
+    },
+    {
+        "trigger": "IP addresses in Vietnam C2",
+        "label": "C2",
+        "sen": "A malicious campaign based on IP addresses in Vietnam C2 $URL$ and mettle open source control module Hajime : This round of update from Hajime also includes GPON exploits ."
+    },
+    {
+        "trigger": "malware samples",
+        "label": "mal",
+        "sen": "The corresponding malware samples are : $Hash$"
+    },
+    {
+        "trigger": "detect the toolkit occur",
+        "label": "Actions_on_Objectives",
+        "sen": "These modules $Hash$ can include data collectors , a self-defense engine which detects if attempts to detect the toolkit occur , functionality for encrypted communications , network capture programs ."
+    },
+    {
+        "trigger": "Dropper/Downloader Payload Locations",
+        "label": "Installation",
+        "sen": "Dropper/Downloader Payload Locations $URL$"
+    },
+    {
+        "trigger": "Samples",
+        "label": "mal",
+        "sen": "Samples $Hash$ WSDB.bat"
+    },
+    {
+        "trigger": "Payload",
+        "label": "Installation",
+        "sen": "Payload : $Hash$"
+    },
+    {
+        "trigger": "exfiltration server domain",
+        "label": "Actions_on_Objectives",
+        "sen": "FIN6 exfiltration server domain $URL$"
+    },
+    {
+        "trigger": "enabling the harvesting of sensitive data",
+        "label": "Actions_on_Objectives",
+        "sen": "Gh0st RAT $Hash$ provides the capability to deploy additional malware , enabling the harvesting of sensitive data and enabling the further propagation throughout the infected network ."
+    },
+    {
+        "trigger": "at least 63 registered subdomains",
+        "label": "mal",
+        "sen": "For $Domain$ we found at least 273 and for $Domain$ at least 63 registered subdomains ."
+    },
+    {
+        "trigger": "redirected the GOM Player update process to another compromised server",
+        "label": "Delivery",
+        "sen": "The modified file redirected the GOM Player update process to another compromised server $Domain$ $IP$ , where a file containing both the legitimate update and the malware was deliver to the victim ."
+    },
+    {
+        "trigger": "Malicious DNS",
+        "label": "mal",
+        "sen": "Malicious DNS server $IP$"
+    },
+    {
+        "trigger": "Second payload",
+        "label": "Installation",
+        "sen": "Second payload : $Hash$"
+    },
+    {
+        "trigger": "Android WebKit exploit landing",
+        "label": "Exploitation",
+        "sen": "Android WebKit exploit landing $IP$ Spreading $Domain$ $Domain$"
+    },
+    {
+        "trigger": "Malicious DNS",
+        "label": "mal",
+        "sen": "Malicious DNS server $IP$"
+    },
+    {
+        "trigger": "but the link in the text pointed to",
+        "label": "Delivery",
+        "sen": "In fact , the domain $Domain$ does exist — and belongs to Apple — but the link in the text pointed to $Domain$ — that’s a capital"
+    },
+    {
+        "trigger": "Binary payload",
+        "label": "Installation",
+        "sen": "Binary payload : MD5 : $Hash$"
+    },
+    {
+        "trigger": "be seen as reconnaissance tool",
+        "label": "Actions_on_Objectives",
+        "sen": "$URL$ is only the first stage in this attack and can be seen as reconnaissance tool ."
+    },
+    {
+        "trigger": "paid $ 1,500,000 in cash to buy",
+        "label": "benign",
+        "sen": "This year , $Domain$ paid $ 1,500,000 in cash to buy Sumo.com ."
+    },
+    {
+        "trigger": "communicates with",
+        "label": "C2",
+        "sen": "The same sample also communicates with $Domain$ , which in turn resolves to the IP address $IP$ , which hosts a large number of other malicious host names ."
+    },
+    {
+        "trigger": "malware campaign",
+        "label": "mal",
+        "sen": "One of the victims of this targeted malware campaign is $Domain$ – the website created by former members of the popular British reggae band ."
+    },
+    {
+        "trigger": "exploit pages",
+        "label": "Exploitation",
+        "sen": "Those links , with the exception of the first one , all redirect to exploit pages on the Hong Kong IP address $IP$ ."
+    },
+    {
+        "trigger": "Malicious document",
+        "label": "mal",
+        "sen": "Malicious document $Hash$"
+    },
+    {
+        "trigger": "Malvertising domain",
+        "label": "mal",
+        "sen": "Malvertising domain $Domain$"
+    },
+    {
+        "trigger": "Final payload",
+        "label": "Installation",
+        "sen": "Final payload $Hash$"
+    },
+    {
+        "trigger": "hosted on the same server and downloaded by victims from",
+        "label": "C2",
+        "sen": "The original document Seminar.rtf was hosted on the same server and downloaded by victims from : $URL$"
+    },
+    {
+        "trigger": "Appendix Received write ups",
+        "label": "benign",
+        "sen": "Appendix Received write ups : $URL$ / – by @"
+    },
+    {
+        "trigger": "write to the file",
+        "label": "Actions_on_Objectives",
+        "sen": "If failed , $Hash$ tries to write to the file f:\\keyhook.log Each time the keylogger starts ."
+    },
+    {
+        "trigger": "CnC Domain",
+        "label": "C2",
+        "sen": "MD5 Hash CnC Domain $Hash$ $Domain$ $Hash$ $Domain$ $Hash$ $Domain$ ."
+    },
+    {
+        "trigger": "point it redirected to",
+        "label": "Delivery",
+        "sen": "We checked the domain $Domain$ and discovered that at some point it redirected to $IP$ ."
+    },
+    {
+        "trigger": "downloads and decodes an XOR 0xC8 encoded Windows PE executable payload from",
+        "label": "C2",
+        "sen": "This class file downloads and decodes an XOR 0xC8 encoded Windows PE executable payload from $URL$ , hosted on the official Afghan Ministry of Foreign Affairs site ."
+    },
+    {
+        "trigger": "hosts a large number of other malicious host names",
+        "label": "C2",
+        "sen": "The same sample also communicates with $Domain$ , which in turn resolves to the IP address $IP$ , which hosts a large number of other malicious host names ."
+    },
+    {
+        "trigger": "exploiting",
+        "label": "Exploitation",
+        "sen": "Similarly , we detected a spearphishing GreyEnergy document $Hash$ , exploiting $CVE$ , also named “ Seminar.rtf ” ."
+    },
+    {
+        "trigger": "phishing-style domains",
+        "label": "Delivery",
+        "sen": "Others were hosted on domains that had phishing-style domains , such as : $Domain$"
+    },
+    {
+        "trigger": "backdoor md5",
+        "label": "Installation",
+        "sen": "Our analysis of the sophisticated backdoor md5 : $Hash$ that was deployed by the attackers on the company’s internal network during the breach , revealed that it was an updated version of the ShadowPad backdoor , which we reported on in 2017 ."
+    },
+    {
+        "trigger": "communicate with the C2 domain",
+        "label": "C2",
+        "sen": "Once again , POSHC2 was used to download a new variant of POWERTON MD5 : $Hash$ , configured to communicate with the C2 domain $URL$ ."
+    },
+    {
+        "trigger": "being hosted",
+        "label": "mal",
+        "sen": "The reverse DNS of the ip address “ $IP$ ” shows that it’s being hosted by Amazon , and not by Netelligent Hosting Services Inc ."
+    },
+    {
+        "trigger": "you would like to learn more",
+        "label": "benign",
+        "sen": "As stated above , if you would like to learn more about our threat intelligence products or request more information on a specific report , please direct inquiries to $Email$ ."
+    },
+    {
+        "trigger": "is a well-known Trojan called",
+        "label": "Installation",
+        "sen": "Trojan example Our example is a well-known Trojan called 1.exe with SHA256 $Hash$"
+    },
+    {
+        "trigger": "connects to a command-and-control C2 server called",
+        "label": "C2",
+        "sen": "The researchers found samples of the Azorult info-stealer that connects to a command-and-control C2 server called “ $Domain$ , ” for instance , as well as other scat01 connections to the Evrial info-stealer and the 1ms0rryStealer ."
+    },
+    {
+        "trigger": "Current C2 IP",
+        "label": "C2",
+        "sen": "Server musl.lib # C2 domain , resolved by EmerDNS , a block-chain DNS musl.lib:7000 currently resolves to 66.42.57.457000 # Singapore/SG Singapore # Current C2 IP and port $Domain$ # Related C2 domain"
+    },
+    {
+        "trigger": "exploiting document communicates with",
+        "label": "C2",
+        "sen": "The exploiting document communicates with $Domain$ , so do 3 other samples ."
+    },
+    {
+        "trigger": "receives the configuration file by calling",
+        "label": "C2",
+        "sen": "Guerrilla.i receives the configuration file by calling htapi.getapiv8.com/api.php?rq=plug ."
+    },
+    {
+        "trigger": "in Phishing Campaign",
+        "label": "Delivery",
+        "sen": "CMSTAR Download Locations in Phishing Campaign $URL$"
+    },
+    {
+        "trigger": "Loader",
+        "label": "Installation",
+        "sen": "Loader : $Hash$"
+    },
+    {
+        "trigger": "maliciousness Occurrences",
+        "label": "mal",
+        "sen": "maliciousness Occurrences pastebin.com 10 $Domain$"
+    },
+    {
+        "trigger": "Communication",
+        "label": "C2",
+        "sen": "$Hash$ Communication"
+    },
+    {
+        "trigger": "The attacks redirected requests",
+        "label": "Delivery",
+        "sen": "The attacks redirected requests to many domains , including $Domain$ , $Domain$ , $Domain$ , $Domain$ and $Domain$ ."
+    },
+    {
+        "trigger": "IoC",
+        "label": "mal",
+        "sen": "IoC $Hash$"
+    },
+    {
+        "trigger": "retrieves commands from hidden strings in compromised webpages",
+        "label": "Installation",
+        "sen": "Historical Indicators File Hash Description green.ddd $Hash$ AIRBREAK , a JavaScript-based backdoor which retrieves commands from hidden strings in compromised webpages ."
+    },
+    {
+        "trigger": "retrieved an executable",
+        "label": "Installation",
+        "sen": "This communication retrieved an executable created with Aut2Exe MD5 : $Hash$ , and executed a PowerShell one-liner to retrieve further malicious content ."
+    },
+    {
+        "trigger": "Dropper/Downloader Samples",
+        "label": "Installation",
+        "sen": "Dropper/Downloader Samples SHA1 $Hash$"
+    },
+    {
+        "trigger": "Loader domains",
+        "label": "C2",
+        "sen": "Smoke Loader domains : $Domain$"
+    },
+    {
+        "trigger": "Destructive Target Cleaning Tool",
+        "label": "Actions_on_Objectives",
+        "sen": "This SMB Worm Tool $Hash$ is equipped with a Listening Implant , Lightweight Backdoor , Proxy Tool , Destructive Hard Drive Tool , and Destructive Target Cleaning Tool ."
+    },
+    {
+        "trigger": "Flash exploit",
+        "label": "Exploitation",
+        "sen": "Flash exploit : $Hash$"
+    },
+    {
+        "trigger": "reused on their last scam",
+        "label": "Delivery",
+        "sen": "$Domain$ is WHOIS protected , with no significant pDNS , but the email they used with us , $Email$ , was partially reused on their last scam iteration in July , as seen below on a scam information website :"
+    },
+    {
+        "trigger": "please direct inquiries to",
+        "label": "benign",
+        "sen": "As stated above , if you would like to learn more about our threat intelligence products or request more information on a specific report , please direct inquiries to $Email$ ."
+    },
+    {
+        "trigger": "deployed by the attackers",
+        "label": "Installation",
+        "sen": "Our analysis of the sophisticated backdoor md5 : $Hash$ that was deployed by the attackers on the company’s internal network during the breach , revealed that it was an updated version of the ShadowPad backdoor , which we reported on in 2017 ."
+    },
+    {
+        "trigger": "data collection and sending",
+        "label": "Actions_on_Objectives",
+        "sen": "The program sequence of data collection and sending is somewhat unusual , with each program $Hash$ performing a single task and communicating via markers left in the registry ."
+    },
+    {
+        "trigger": "writes information about each keystroke to the log file",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ The low-level keyboard hook procedure intercepts WM_KEYDOWN , WM_KEYUP and WM _ SYSKEYDOWN system messages and writes information about each keystroke to the log file ."
+    },
+    {
+        "trigger": "distributed in the campaign",
+        "label": "Delivery",
+        "sen": "$Hash$ – original sample , distributed in the campaign"
+    },
+    {
+        "trigger": "connected with XMRigCC",
+        "label": "C2",
+        "sen": "ISO image distributeted in a ZIP file HTML apps connected with XMRigCC $Hash$ $Hash$ $Hash$ $Hash$ "
+    },
+    {
+        "trigger": "Clipboard Crypto currency stealer",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ - Clipboard Crypto currency stealer unpacked $Hash$ - 32 bit XMRigCC $Hash$"
+    },
+    {
+        "trigger": "landing on an exploit page hosted on domain",
+        "label": "Exploitation",
+        "sen": "In the span of 3 days , 5 Fallout Exploit Kit URL chains were observed , all landing on an exploit page hosted on domain $Domain$ ."
+    },
+    {
+        "trigger": "This can be seen in",
+        "label": "benign",
+        "sen": "This can be seen in $URL$ ."
+    },
+    {
+        "trigger": "unwanted redirects from",
+        "label": "Delivery",
+        "sen": "This code fetches payloads the script with the cryptominer and unwanted redirects from http://wp-cloud.ru/1/?k=235"
+    },
+    {
+        "trigger": " C&amp;C IP address",
+        "label": "C2",
+        "sen": "We also found several Dynamic Name Servers DNS , which at some point led to the same C&amp;C IP address : $Domain$ $Domain$ $Domain$ $Domain$ ."
+    },
+    {
+        "trigger": "C2",
+        "label": "C2",
+        "sen": "C2 IPv4 $IP$"
+    },
+    {
+        "trigger": "crypto ransomware sample",
+        "label": "Installation",
+        "sen": "For an example of what we are talking about , consider the code in Figure 1 , which was taken from a memory dump of xdata crypto ransomware sample $Hash$ ."
+    },
+    {
+        "trigger": "C&amp;C",
+        "label": "C2",
+        "sen": "Main C&amp;C $IP$"
+    },
+    {
+        "trigger": "execute a PowerShell one-liner",
+        "label": "Installation",
+        "sen": "$Hash$ does nothing but execute a PowerShell one-liner to retrieve additional malicious content for execution ."
+    },
+    {
+        "trigger": "network capture programs",
+        "label": "Actions_on_Objectives",
+        "sen": "These modules $Hash$ can include data collectors , a self-defense engine which detects if attempts to detect the toolkit occur , functionality for encrypted communications , network capture programs ."
+    },
+    {
+        "trigger": "host its malware",
+        "label": "C2",
+        "sen": "Hoaxcalls first emerged in late March , as a variant of the Gafgyt/Bashlite family ; it’s named after the domain used to host its malware , $Domain$ ."
+    },
+    {
+        "trigger": "a drive-by attack",
+        "label": "Delivery",
+        "sen": "This sample was first observed during a drive-by attack in June 2014 , and was downloaded from $URL$ ."
+    },
+    {
+        "trigger": "code-execution vulnerability",
+        "label": "Exploitation",
+        "sen": "$CVE$ - Privilege escalation vulnerability in Windows XP and Windows 2003 $CVE$ - Arbitrary code-execution vulnerability in Adobe Reader ."
+    },
+    {
+        "trigger": "FakeCry technical details Sample",
+        "label": "mal",
+        "sen": "FakeCry technical details Sample : $Hash$ Size : 3,880,448 bytes"
+    },
+    {
+        "trigger": "attacked sites",
+        "label": "mal",
+        "sen": "For the victims , we only list parts of popular attacked sites below , including : check-host.net , $Domain$ , moz.com , $Domain$ , pastebin.com , roblox.com , seznam.cz , store.playstation.com , www.kinguin.net , etc :"
+    },
+    {
+        "trigger": "bypass data execution prevention DEP",
+        "label": "Exploitation",
+        "sen": "$CVE$ gain access to memory from Flash ActionScript , bypassing address space layout randomization ASLR Pivot to a return-oriented programing ROP exploit technique to bypass data execution prevention DEP ."
+    },
+    {
+        "trigger": "you have any suggestions",
+        "label": "benign",
+        "sen": "If you have any suggestions or questions please email $Email$"
+    },
+    {
+        "trigger": "changed their C2 to",
+        "label": "C2",
+        "sen": "For this specific campaign , the malicious actors used the IP address $IP$ as a C2 and as hosting site for the Android version in its early stages , the following samples also changed their C2 to $Domain$ ."
+    },
+    {
+        "trigger": " indicate maliciousness",
+        "label": "mal",
+        "sen": "Does not indicate maliciousness $IP$"
+    },
+    {
+        "trigger": "Related C2 domain",
+        "label": "C2",
+        "sen": "Server musl.lib # C2 domain , resolved by EmerDNS , a block-chain DNS musl.lib:7000 currently resolves to 66.42.57.457000 # Singapore/SG Singapore # Current C2 IP and port $Domain$ # Related C2 domain"
+    },
+    {
+        "trigger": "as a C2",
+        "label": "C2",
+        "sen": "For this specific campaign , the malicious actors used the IP address $IP$ as a C2 and as hosting site for the Android version in its early stages , the following samples also changed their C2 to $Domain$ ."
+    },
+    {
+        "trigger": "Custom loader URL",
+        "label": "Installation",
+        "sen": "Description http://tfulf.host/Sw9HJmXzq.exe Custom loader URL $Hash$ Custom loader SHA256 $URL$ /"
+    },
+    {
+        "trigger": "redirect visitors",
+        "label": "Delivery",
+        "sen": "In this case , it was a targeted attack that injects malicious code to redirect visitors from the $Domain$ site to the net site ."
+    },
+    {
+        "trigger": "reach out to a URL",
+        "label": "C2",
+        "sen": "“ Some samples reach out to a URL for a public file upload service $Domain$ where the post-exploitation payload is hosted ."
+    },
+    {
+        "trigger": "File location",
+        "label": "C2",
+        "sen": "File location : $URL$"
+    },
+    {
+        "trigger": "spoof domain",
+        "label": "Delivery",
+        "sen": "Domain Spoofing ScamSeveral individuals were recently arrested for creating a spoof domain for $Domain$ , a site that allows users to access their cryptocurrency wallets ."
+    },
+    {
+        "trigger": "as hosting site for the Android",
+        "label": "C2",
+        "sen": "For this specific campaign , the malicious actors used the IP address $IP$ as a C2 and as hosting site for the Android version in its early stages , the following samples also changed their C2 to $Domain$ ."
+    },
+    {
+        "trigger": "downloaded from the server",
+        "label": "C2",
+        "sen": "In the case of our analysis , it downloaded from the server $IP$ , where the following are listed : $Domain$"
+    },
+    {
+        "trigger": "cleaner program",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ , which happens to be a cleaner program that uninstalls the service and removes all files created by the program , regardless of the current date ."
+    },
+    {
+        "trigger": "exploited",
+        "label": "Exploitation",
+        "sen": "The file $Hash$ with the name “ Seminar.rtf ” exploited $CVE$"
+    },
+    {
+        "trigger": "unique spam-sending nodes worldwide",
+        "label": "Delivery",
+        "sen": "From August to December 2016 , IP address $IP$ participated in a massive spam campaign , being one of the 80,000 unique spam-sending nodes worldwide ."
+    },
+    {
+        "trigger": "File Hashes",
+        "label": "mal",
+        "sen": "File Hashes $Hash$"
+    },
+    {
+        "trigger": "Indicators of Compromise",
+        "label": "mal",
+        "sen": "Indicators of Compromise $Hash$ $Hash$ $Hash$ $Hash$"
+    },
+    {
+        "trigger": "hosted their homepage exploit at a new C2 server",
+        "label": "C2",
+        "sen": "The actor hosted their homepage exploit at a new C2 server $URL$ ."
+    },
+    {
+        "trigger": "Command and Control Server",
+        "label": "C2",
+        "sen": "Domain registered to the Command and Control Server $Domain$"
+    },
+    {
+        "trigger": "loads an external JavaScript from",
+        "label": "Delivery",
+        "sen": "This code loads an external JavaScript from $URL$ ."
+    },
+    {
+        "trigger": "Custom loader SHA256",
+        "label": "Installation",
+        "sen": "Description http://tfulf.host/Sw9HJmXzq.exe Custom loader URL $Hash$ Custom loader SHA256 $URL$ /"
+    },
+    {
+        "trigger": "connects to the following domain",
+        "label": "C2",
+        "sen": "It also connects to the following domain via HTTP : $URL$"
+    },
+    {
+        "trigger": "used as C2 for Loda",
+        "label": "C2",
+        "sen": "The hostname $Domain$ was first recorded with malicious activity on July 2 , 2020 being used as C2 for Loda , this is the exact same day that the domain was also registered ."
+    },
+    {
+        "trigger": " Last Seen CnC Domain IP",
+        "label": "C2",
+        "sen": "First Seen Last Seen CnC Domain IP $IP$ ."
+    },
+    {
+        "trigger": "An exploitable code execution vulnerability",
+        "label": "Exploitation",
+        "sen": "An exploitable code execution vulnerability exists in the JPEG2000 Stripe Decoding functionality of Nitro Software , Inc.'s Nitro Pro $IP$ when decoding sub-samples ."
+    },
+    {
+        "trigger": "SMB worm tool : MD5",
+        "label": "Installation",
+        "sen": "SMB worm tool : MD5 : $Hash$ ."
+    },
+    {
+        "trigger": "the payload delivered by",
+        "label": "Delivery",
+        "sen": "At the end of August 2019 , we noticed that the payload delivered by $Domain$ changed ."
+    },
+    {
+        "trigger": "Downloader",
+        "label": "Installation",
+        "sen": "Carp Downloader SHA256 Hashes $Hash$"
+    },
+    {
+        "trigger": "is a redirection from",
+        "label": "Delivery",
+        "sen": "For example , here is a redirection from $Domain$ , which takes users to a fake online pharmacy website : This slideshow requires JavaScript ."
+    },
+    {
+        "trigger": "check if there were DNS requests from your organization to these domains",
+        "label": "mal",
+        "sen": "If for some reason you can’t use an antimalware solution you can check if there were DNS requests from your organization to these domains : $Domain$"
+    },
+    {
+        "trigger": "spear phishing document",
+        "label": "Delivery",
+        "sen": "While being uncommon , a function named “ MultiPage1_Layout ” was also found in the Olympic Destroyer spear phishing document MD5 : $Hash$ ."
+    },
+    {
+        "trigger": "exfiltration server domain",
+        "label": "Actions_on_Objectives",
+        "sen": "Attribution Detection name $Domain$ FIN6 exfiltration server domain https://$Domain$/analytics/beacon FIN6 exfiltration server URL $URL$"
+    },
+    {
+        "trigger": "resolving to this IP",
+        "label": "mal",
+        "sen": "Prior to this time period , we see several subdomains of $Domain$ , ns1 , ns2 , and www also resolving to this IP ."
+    },
+    {
+        "trigger": "writes this information to the log file",
+        "label": "Actions_on_Objectives",
+        "sen": "Every time a new window becomes active , $Hash$ retrieves its name and the path to its application and writes this information to the log file : % path to the application’s executable file % : “ % window title % ” ."
+    },
+    {
+        "trigger": "the installer component",
+        "label": "Installation",
+        "sen": "Upon extraction from the RAR archive , the installer component $Hash$ is automatically launched alongside the GOM Player update , distracting victims from the malicious activity taking place ."
+    },
+    {
+        "trigger": "Indicators of Compromise Domain Names",
+        "label": "mal",
+        "sen": "Indicators of Compromise Domain Names $Domain$ $Domain$ $Domain$ Hashes"
+    },
+    {
+        "trigger": "malware tries to reach the hardcoded domain",
+        "label": "C2",
+        "sen": "For instance : With these galleries unavailable , the malware tries to reach the hardcoded domain $Domain$ ."
+    },
+    {
+        "trigger": "The main exploit file",
+        "label": "Exploitation",
+        "sen": "The main exploit file is this $URL$ # md5 hash $Hash$"
+    },
+    {
+        "trigger": "Destructive Hard Drive Tool",
+        "label": "Actions_on_Objectives",
+        "sen": "This SMB Worm Tool $Hash$ is equipped with a Listening Implant , Lightweight Backdoor , Proxy Tool , Destructive Hard Drive Tool , and Destructive Target Cleaning Tool ."
+    },
+    {
+        "trigger": "removes all files created by the program",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ , which happens to be a cleaner program that uninstalls the service and removes all files created by the program , regardless of the current date ."
+    },
+    {
+        "trigger": "Associated with Observed Activity IOCs",
+        "label": "mal",
+        "sen": "Phorpiex IOCs Associated with Observed Activity IOCs GandCrab v5.1 SHA256 $Hash$ Table 3 ."
+    },
+    {
+        "trigger": "host",
+        "label": "mal",
+        "sen": "$ host $Domain$"
+    },
+    {
+        "trigger": "Phishing extensions",
+        "label": "Delivery",
+        "sen": "Phishing extensions : . doc $Hash$ $Hash$ Icons : . pdf , . doc , . ttf , . xls , . ppt , . msg , . exe Stealer : . txt , . jpeg , . eml Additional Executable names ."
+    },
+    {
+        "trigger": "injects malicious code",
+        "label": "Delivery",
+        "sen": "In this case , it was a targeted attack that injects malicious code to redirect visitors from the $Domain$ site to the net site ."
+    },
+    {
+        "trigger": "build an organized list of data",
+        "label": "Actions_on_Objectives",
+        "sen": "The purpose of this phase is to gather as much information about a target in order to build an organized list of data which will be used in future hacking phases scanning , enumeration , and gaining access . $URL$ /"
+    },
+    {
+        "trigger": "retrieve additional data from the following URL",
+        "label": "C2",
+        "sen": "They retrieve additional data from the following URL : http://185.217.0.124/help-desk/remote-assistant-service/PostId.php?q=hex"
+    },
+    {
+        "trigger": "Connection with Dridex malware and Carbanak Group",
+        "label": "C2",
+        "sen": "$Email$ Connection with Dridex malware and Carbanak Group"
+    },
+    {
+        "trigger": "download the POSHC2 binaries from yet another new C2 server",
+        "label": "C2",
+        "sen": "Once decoded , the commands will attempt to download the POSHC2 binaries from yet another new C2 server $URL$ ."
+    },
+    {
+        "trigger": "distributing malware via",
+        "label": "Delivery",
+        "sen": "The same three sites targeted with the 0-day used in the Forbes attack were also observed distributing malware via $Domain$ - we therefore believe it’s likely that the group we previously described as ‘ Cluster 1 ’ was behind the Forbes compromise ."
+    },
+    {
+        "trigger": "you want to suggest an update",
+        "label": "benign",
+        "sen": "If you want to suggest an update , get in touch with us by emailing : $Email$"
+    },
+    {
+        "trigger": "download legitimate unzip.exe and Tor applications from the following locations",
+        "label": "C2",
+        "sen": "Cinobi will then download legitimate unzip.exe and Tor applications from the following locations : $URL$ https://archive.torproject.org/tor-package-archive/torbrowser/8.0.8/tor-win32-0.3.5.8.zip"
+    },
+    {
+        "trigger": "adversary-controlled WebDAV server",
+        "label": "C2",
+        "sen": "an adversary-controlled WebDAV server $Domain$"
+    },
+    {
+        "trigger": "injected into svchost",
+        "label": "Installation",
+        "sen": "Downloaded modules , injected into svchost : $Hash$"
+    },
+    {
+        "trigger": "malicious executable",
+        "label": "mal",
+        "sen": "In all the cases we have observed , this malicious executable has been the same binary SHA1 : $Hash$ , detected as Trojan-Dropper:W32/OnionDuke.A ."
+    },
+    {
+        "trigger": "Associated file hashes",
+        "label": "mal",
+        "sen": "Associated file hashes : SHA256 hash : $Hash$"
+    },
+    {
+        "trigger": "used as delimiter",
+        "label": "mal",
+        "sen": "Note that the upper-case letter ‘ O ’ is used as delimiter : http://sl.szmr.org/cj/?9c5d97bba87f468b9237c9b160c36a43142898157O102156291O8264O23.0s%20LMS%20Tech"
+    },
+    {
+        "trigger": "downloaded a file on ",
+        "label": "C2",
+        "sen": "In both campaigns , the OLE Object deployed an HTA file and executed it : The two HTA scripts downloaded a file on $Domain$ ."
+    },
+    {
+        "trigger": "IOC",
+        "label": "mal",
+        "sen": "IOC $Hash$"
+    },
+    {
+        "trigger": "versions of this scam",
+        "label": "Delivery",
+        "sen": "The site is located at $Domain$ and – like the older versions of this scam – is all about getting yourself verified ."
+    },
+    {
+        "trigger": "exploit kit",
+        "label": "Exploitation",
+        "sen": "Both backdoors were utilizing the “ Tran Duy Linh ” exploit kit , which exploited $CVE$ ."
+    },
+    {
+        "trigger": "controlled by",
+        "label": "Actions_on_Objectives",
+        "sen": "Data is transmitted by e-mail to an account presumably controlled by $Hash$ ."
+    },
+    {
+        "trigger": "download and executes a file from",
+        "label": "C2",
+        "sen": "The code was hosted and is no longer available at this location executed a PowerShell script which in turn would download and executes a file from : $URL$ ."
+    },
+    {
+        "trigger": "ELF executable",
+        "label": "Installation",
+        "sen": "$Hash$ is compiled as a x86 ELF executable ."
+    },
+    {
+        "trigger": "exfiltrating credentials from",
+        "label": "Actions_on_Objectives",
+        "sen": "However , that malware $Hash$ was included a mechanism for exfiltrating credentials from Facebook and hooking programs like Skype ."
+    },
+    {
+        "trigger": "File Hashes",
+        "label": "mal",
+        "sen": "File Hashes $Hash$ $Hash$"
+    },
+    {
+        "trigger": "return-oriented programing ROP exploit technique",
+        "label": "Exploitation",
+        "sen": "$CVE$ gain access to memory from Flash ActionScript , bypassing address space layout randomization ASLR Pivot to a return-oriented programing ROP exploit technique to bypass data execution prevention DEP ."
+    },
+    {
+        "trigger": "spam content is actually loaded",
+        "label": "Delivery",
+        "sen": "As seen above , the spam content is actually loaded by $Domain$ ."
+    },
+    {
+        "trigger": "obfuscate scripts",
+        "label": "Delivery",
+        "sen": "when approximately 3 months ago we noticed the JJEncode obfuscator was once again in use : Minr cryptominer began using it to obfuscate scripts that they loaded from multiple domains like $Domain$ ."
+    },
+    {
+        "trigger": "Loader",
+        "label": "Installation",
+        "sen": "Smoke Loader $Hash$"
+    },
+    {
+        "trigger": "Maldoc",
+        "label": "mal",
+        "sen": "Maldoc Hashes $Hash$"
+    },
+    {
+        "trigger": "exploit",
+        "label": "Exploitation",
+        "sen": "$Hash$ CAPESAND exploit $CVE$ Trojan."
+    },
+    {
+        "trigger": "from the malicious site",
+        "label": "C2",
+        "sen": "The command downloads EMOTET from $URL$ / and will execute the dropper PE payload from the malicious site"
+    },
+    {
+        "trigger": "visitors were redirected from",
+        "label": "Delivery",
+        "sen": "In this case , visitors were redirected from $Domain$ to a Java exploit hosted on shop.fujifilm.be ."
+    },
+    {
+        "trigger": "connects to",
+        "label": "C2",
+        "sen": "The downloaded payload is Cobaltstrike , which then connects to $Domain$ to receive commands from the attackers ."
+    },
+    {
+        "trigger": "hosted at",
+        "label": "C2",
+        "sen": "On Dec . 13 , 2018 , Advanced Practices proactively identified and attributed a malicious RULER.HOMEPAGE payload hosted at $URL$ MD5 : $Hash$ ."
+    },
+    {
+        "trigger": "the commands will attempt to download the POSHC2 binaries from",
+        "label": "C2",
+        "sen": "Once decoded , the commands will attempt to download the POSHC2 binaries from yet another new C2 serve $URL$ ."
+    },
+    {
+        "trigger": "Reverse shell",
+        "label": "C2",
+        "sen": "$Hash$ osport.exe Reverse shell"
+    },
+    {
+        "trigger": "sample of ransomware MD5",
+        "label": "Actions_on_Objectives",
+        "sen": "a Higher Chance of Impacting OT Systems Mandiant analyzed a second , entirely unrelated sample of ransomware MD5 : $Hash$ from the CLOP family with a hardcoded list for enumeration and termination of processes that includes a number of OT strings ."
+    },
+    {
+        "trigger": "Tech support scam",
+        "label": "Delivery",
+        "sen": "Indicators of compromise Tech support scam $URL$ / RIG EK Fobos :"
+    },
+    {
+        "trigger": "connects to",
+        "label": "C2",
+        "sen": "The file with SHA256 hash “ $Hash$ ” is one of the OnionDog files from 2015 that connects to a $Domain$ C&amp;C domain ."
+    },
+    {
+        "trigger": "scanning module",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ # scanning module var disqus_config = function this.page.url"
+    },
+    {
+        "trigger": "APT samples",
+        "label": "mal",
+        "sen": "$Hash$ reveals a couple of interesting similarities with other Platinum APT samples , both in terms of code and unique strings ."
+    },
+    {
+        "trigger": "contacted by malware",
+        "label": "C2",
+        "sen": "$IP$ 1 $IP$ 1 $IP$ 1 Domain Names contacted by malware ."
+    },
+    {
+        "trigger": "Downloaders",
+        "label": "Installation",
+        "sen": "IOCs Downloaders $Hash$"
+    },
+    {
+        "trigger": "involved in other ransomware attacks",
+        "label": "Actions_on_Objectives",
+        "sen": "top used the same name servers along with a few other domains involved in other ransomware attacks like $Domain$ ."
+    },
+    {
+        "trigger": "SandwichGenerator Backdoor",
+        "label": "C2",
+        "sen": "$Hash$ SandwichGenerator Backdoor ."
+    },
+    {
+        "trigger": "C2",
+        "label": "C2",
+        "sen": "C2 : $Domain$"
+    },
+    {
+        "trigger": "check in KTAE for this sample",
+        "label": "mal",
+        "sen": "A quick check in KTAE for this sample reveals the following : Analysis for $Hash$ – Turla 64 bit Penquin sample"
+    },
+    {
+        "trigger": "fake Google Analytics tracking code",
+        "label": "Delivery",
+        "sen": "We discovered a fake Google Analytics tracking code that uses the $URL$ domain – which is not actually owned by Google ."
+    },
+    {
+        "trigger": "finally landed on",
+        "label": "Delivery",
+        "sen": "This traffic indicates the app used several redirects : The advertisement came from $Domain$ , was redirected throgh go2affise.com and finally landed on $Domain$ ."
+    },
+    {
+        "trigger": "sent encrypted over",
+        "label": "Actions_on_Objectives",
+        "sen": "Stolen data was packed and sent encrypted over $URL$ random ports ."
+    },
+    {
+        "trigger": "Backdoor",
+        "label": "Installation",
+        "sen": "SHA-256 Detection Name $Hash$ Backdoor ."
+    },
+    {
+        "trigger": "used for the following command",
+        "label": "mal",
+        "sen": "In the proof of concept , the hexadecimal bytes , $Hash$ , are used for the following command :"
+    },
+    {
+        "trigger": "a YARA rule to find a sample",
+        "label": "mal",
+        "sen": "As mentioned in the previous paper , based on the information from the log file we created a YARA rule to find a sample , in this case : MD5 $Hash$ ."
+    },
+    {
+        "trigger": "fingerprint the victim machine",
+        "label": "Actions_on_Objectives",
+        "sen": "This proxy $Hash$ tool has basic backdoor functionality , including the ability to fingerprint the victim machine , run remote commands , perform directory listings , perform process listings , and transfer files ."
+    },
+    {
+        "trigger": "Obfuscated File MD5",
+        "label": "Installation",
+        "sen": "Hash of Obfuscated File MD5 Hash of Deobfuscated File MD5 Version $Hash$"
+    },
+    {
+        "trigger": "Malicious DNS",
+        "label": "mal",
+        "sen": "Malicious DNS server $IP$"
+    },
+    {
+        "trigger": "controlling mass amounts of infected Windows devices",
+        "label": "C2",
+        "sen": "NetLab 360 researchers , in a recent posting , said that it noticed DNS activity in its telemetry that traced back to a suspicious domain $Domain$ controlling mass amounts of infected Windows devices ."
+    },
+    {
+        "trigger": "download URL",
+        "label": "C2",
+        "sen": "Sample md5 and download URL list $URL$ $Hash$ $URL$ $Hash$ $URL$"
+    },
+    {
+        "trigger": "public file upload service",
+        "label": "C2",
+        "sen": "“ Some samples reach out to a URL for a public file upload service $Domain$ where the post-exploitation payload is hosted ."
+    },
+    {
+        "trigger": "replacing download links",
+        "label": "Delivery",
+        "sen": "When we first examined it , the script was simply replacing download links with links on Yahoo : s.src = ' / / events.securesrv12.com/report/dldetect/?pop=1&amp;links = '"
+    },
+    {
+        "trigger": "sensitive information Data exfiltration via",
+        "label": "Actions_on_Objectives",
+        "sen": "Archiving sensitive information Data exfiltration via $URL$ ."
+    },
+    {
+        "trigger": "receive commands from",
+        "label": "C2",
+        "sen": "The downloaded payload is Cobaltstrike , which then connects to $Domain$ to receive commands from the attackers ."
+    },
+    {
+        "trigger": "please reach out to us via",
+        "label": "benign",
+        "sen": "For more information on CrowdStrike’s Incident Response , Compromise Assessment or Threat Hunting offerings , visit the CrowdStrike Services page or please reach out to us via $Email$ Download the CrowdStrike 2020 Global Threat Report ."
+    },
+    {
+        "trigger": "Data is transmitted by e-mail",
+        "label": "Actions_on_Objectives",
+        "sen": "Data is transmitted by e-mail to an account presumably controlled by $Hash$ ."
+    },
+    {
+        "trigger": "we identified",
+        "label": "mal",
+        "sen": "Inspecting the class C network for $URL$ shows us that another IP on the same network resolves to an OilRig domain , $Domain$ which we identified in August 2017 ."
+    },
+    {
+        "trigger": "credential theft tool",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ dopass.exe Browser credential theft tool $Hash$ nt.exe ,"
+    },
+    {
+        "trigger": "exploitable SQL injection vulnerability",
+        "label": "Exploitation",
+        "sen": "An exploitable SQL injection vulnerability exists in the admin reports functionality of Glacies IceHRM v26.6.0.OS Commit $Hash$ ."
+    },
+    {
+        "trigger": "the current sample of",
+        "label": "mal",
+        "sen": "This comparison will be based on the current sample of Phobos , with a Dharma sample $Hash$ ."
+    },
+    {
+        "trigger": "is also linked to",
+        "label": "mal",
+        "sen": "83.27 is also linked to $Domain$ ."
+    },
+    {
+        "trigger": "the C2 recently changed to",
+        "label": "C2",
+        "sen": "Based on the certificate fingerprint used to sign both Android samples , we believe the C2 recently changed to $Domain$ and the distribution is currently being carried out from a newly identified domain $Domain$ ."
+    },
+    {
+        "trigger": "administer the command and control node",
+        "label": "C2",
+        "sen": "In one instance , a log file recovered from an open indexed server revealed that an IP address $IP$ located in Hainan , China had been used to administer the command and control node that was communicating with malware on victim machines ."
+    },
+    {
+        "trigger": "preinstalled AppStore app",
+        "label": "Installation",
+        "sen": "However , in the preinstalled AppStore app $Hash$ , we uncovered hidden adware able to load under the radar and display itself in invisible windows"
+    },
+    {
+        "trigger": "load under the radar",
+        "label": "Installation",
+        "sen": "However , in the preinstalled AppStore app $Hash$ , we uncovered hidden adware able to load under the radar and display itself in invisible windows"
+    },
+    {
+        "trigger": "download an MSI file from a URL such as",
+        "label": "C2",
+        "sen": "Emails with an attached . ISO image is an . LNK file that uses command line msiexec to download an MSI file from a URL such as $URL$ 1 ."
+    },
+    {
+        "trigger": "The URL to download the next stage",
+        "label": "C2",
+        "sen": "The URL to download the next stage ends in the path with the format 1Letter1 to 2-digit number.jpg , for example , $URL$ ."
+    },
+    {
+        "trigger": "C&amp;Cs",
+        "label": "C2",
+        "sen": "Carbanak Google Apps Script C&amp;Cs $URL$"
+    },
+    {
+        "trigger": "be misconstrued by a user as an update to Java",
+        "label": "Delivery",
+        "sen": "As can be seen in the image above , this popup could be misconstrued by a user as an update to Java despite the $Domain$ domain and the Publisher being listed as WindySoft ."
+    },
+    {
+        "trigger": "decoded payload",
+        "label": "Installation",
+        "sen": "For instance , Table 3 lists the hard-coded C2 addresses , their MD5 hash , and the corresponding Blowfish key in the decoded payload of $Hash$ ."
+    },
+    {
+        "trigger": "redirects to a currently suspended page",
+        "label": "Delivery",
+        "sen": "This C&C is still online at the moment although it redirects to a currently suspended page at \" $URL$ \" ."
+    },
+    {
+        "trigger": "are also part of the same network",
+        "label": "mal",
+        "sen": "It appears that $Domain$ and $Domain$ are also part of the same network ."
+    },
+    {
+        "trigger": "request more information",
+        "label": "benign",
+        "sen": "As stated above , if you would like to learn more about our threat intelligence products or request more information on a specific report , please direct inquiries to $Email$ ."
+    },
+    {
+        "trigger": "information gathering",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ : information gathering ."
+    },
+    {
+        "trigger": "phishing links",
+        "label": "Delivery",
+        "sen": "“ So far , all phishing links from this campaign utilize some variation on $Domain$ , specifically sharepointonline-xxx followed by a variation of three letters , with the top-level domain always being pw , ” said researchers ."
+    },
+    {
+        "trigger": "Fake page",
+        "label": "Delivery",
+        "sen": "Fake page on the $Domain$ domain Top 10 countries by percentage of attacked users Country % Brazil 27.61"
+    },
+    {
+        "trigger": "live exploit code hosted at",
+        "label": "Exploitation",
+        "sen": "In particular Volexity came across live exploit code hosted at $Domain$ on the Japanese IP address $IP$ ."
+    },
+    {
+        "trigger": "Default landing page for",
+        "label": "Delivery",
+        "sen": "Figure 5 Default landing page for $Domain$ domain Figure 6 Default landing page for $Domain$ domain"
+    },
+    {
+        "trigger": "contacted by malware",
+        "label": "C2",
+        "sen": "Occurrences $IP$ 1 Domain Names contacted by malware ."
+    },
+    {
+        "trigger": "C&amp;C communication",
+        "label": "C2",
+        "sen": "This domain is similar to the one the malware author used for his adware C&amp;C communication , $Domain$ ."
+    },
+    {
+        "trigger": "connects to IP address",
+        "label": "C2",
+        "sen": "6 = IPPROTO_TCP connects to IP address $IP$ on port"
+    },
+    {
+        "trigger": "the sample from the old reported OceanLotus Android campaign MD5",
+        "label": "mal",
+        "sen": "To best visualize the similarities we discovered , we made a code structure comparison of the sample from the old reported OceanLotus Android campaign MD5 : $Hash$ and the only unobfuscated probably a developer version"
+    },
+    {
+        "trigger": "inject malicious JavaScript code",
+        "label": "Delivery",
+        "sen": "Researchers were able to inject malicious JavaScript code into the “ section ” parameter of the user profile settings in the settings functionality https://www.OkCupid.com/settings?section=&lt;value&gt ; ."
+    },
+    {
+        "trigger": "using Cloudflare to hide its IP addresses",
+        "label": "Delivery",
+        "sen": "The website $Domain$ appears to be using Cloudflare to hide its IP addresses ."
+    },
+    {
+        "trigger": "transmitted to the C&C server",
+        "label": "Actions_on_Objectives",
+        "sen": "The retrieved information is compressed using bzip2 , encrypted with AES and then encoded using Base64 before being transmitted to the C&C server $Domain$."
+    },
+    {
+        "trigger": "visit the CrowdStrike Services page",
+        "label": "benign",
+        "sen": "For more information on CrowdStrike’s Incident Response , Compromise Assessment or Threat Hunting offerings , visit the CrowdStrike Services page or please reach out to us via $Email$ Download the CrowdStrike 2020 Global Threat Report ."
+    },
+    {
+        "trigger": "proceeded to download an app",
+        "label": "C2",
+        "sen": "When users browsed the Turkish alternative app store $Domain$ and proceeded to download an app , the “ Download now ” button led to banking malware instead of the desired app ."
+    },
+    {
+        "trigger": "C&amp;C",
+        "label": "C2",
+        "sen": "Specifically , $Domain$ a free hostname service is a C&amp;C used by version 1 of the miner ."
+    },
+    {
+        "trigger": "Destroyer",
+        "label": "Actions_on_Objectives",
+        "sen": "Additional Olympic Destroyer : $Hash$"
+    },
+    {
+        "trigger": "injected scripts",
+        "label": "Delivery",
+        "sen": "There are a variety of injected scripts that have been used in this attack in the past month : $URL$"
+    },
+    {
+        "trigger": "exploit server",
+        "label": "Exploitation",
+        "sen": "It exploits $CVE$ to download the second stage payload from exploit server $IP$ Figure 3 ."
+    },
+    {
+        "trigger": "malware hash",
+        "label": "mal",
+        "sen": "malware hash Hajime atk.mipseb.1525838286 file name $Hash$ hash original $Hash$ hash before unpack $Hash$ hash after unpack Mira variant"
+    },
+    {
+        "trigger": "after successful exploitation",
+        "label": "Exploitation",
+        "sen": "$Hash$ File Size 107,008 bytes Compile Time 2/4/2015 8:41:42 UTC The malware does not execute immediately after successful exploitation and instead just creates a Run key in the current user's hive which will execute the next time the victim user accesses the system ."
+    },
+    {
+        "trigger": "samples",
+        "label": "mal",
+        "sen": "GlitchPOS samples $Hash$ SHA256"
+    },
+    {
+        "trigger": "scam domains",
+        "label": "Delivery",
+        "sen": "There are other scam domains also hosted on this IP $IP$ : $Domain$ $Domain$"
+    },
+    {
+        "trigger": "Suspicious URLs used by Exploit Samples",
+        "label": "Exploitation",
+        "sen": "Suspicious URLs used by Exploit Samples $URL$"
+    },
+    {
+        "trigger": "C2",
+        "label": "C2",
+        "sen": "C2 $Domain$"
+    },
+    {
+        "trigger": "imitating a guide for",
+        "label": "Delivery",
+        "sen": "$URL$ imitating a guide for Pokemon GO Cybercriminals continue their use of Google Play"
+    },
+    {
+        "trigger": "Second payload",
+        "label": "Installation",
+        "sen": "Second payload : $Hash$"
+    },
+    {
+        "trigger": "Indicators of Compromise Dark Crystal RAT",
+        "label": "C2",
+        "sen": "Indicators of Compromise Dark Crystal RAT dfsds.exe Handle artifacts Mutex name $Hash$"
+    },
+    {
+        "trigger": "the exploit code is appended to",
+        "label": "Exploitation",
+        "sen": "In this implementation , the exploit code is appended to “ $URL$ / ” , and hence the above condition will not be triggered ."
+    },
+    {
+        "trigger": "exploitation attempts with a payload",
+        "label": "Exploitation",
+        "sen": "$IP$ CVE-2019-19781 exploitation attempts with a payload of ‘ file / bin/pwd ’ CVE-2019-19781 exploitation attempts with a payload of ‘ / usr/bin/ftp - o / tmp/un ftp"
+    },
+    {
+        "trigger": "domains names associate to",
+        "label": "mal",
+        "sen": "In this case , D2v helps us find following domains names associate to $Domain$ when the spike occurred :"
+    },
+    {
+        "trigger": "monitors the infected user’s clipboard",
+        "label": "Actions_on_Objectives",
+        "sen": "The malware $Hash$ monitors the infected user’s clipboard ."
+    },
+    {
+        "trigger": "listening to DBT_DEVICEARRIVAL events",
+        "label": "Actions_on_Objectives",
+        "sen": "Apart from doing a recursive sweep of all logical fixed and remote drives , it $Hash$ also continually monitors any attached removable media or network shares by listening to DBT_DEVICEARRIVAL events ."
+    },
+    {
+        "trigger": "In the sample we can see",
+        "label": "mal",
+        "sen": "In the sample we can see the relationship with the IP address $IP$ Within VTGraph we can visually see the relationships between this sample , the IP address , domains and URLS that we know about Email ThisBlogThis!Share to TwitterShare to Facebook"
+    },
+    {
+        "trigger": "related to this campaign",
+        "label": "mal",
+        "sen": "All IOCs are in the appendix of this blog Recent Attacks One of the most recent attacks that Unit 42 found related to this campaign consisted of a malicious RTF document was served on November 8 , 2017 with the following SHA256 hash : $Hash$"
+    },
+    {
+        "trigger": "fraud domain",
+        "label": "Delivery",
+        "sen": "Researchers said that the emails using this method originated from a fraud domain , $Domain$ , which was recently registered , on Feb ."
+    },
+    {
+        "trigger": "C2 servers",
+        "label": "C2",
+        "sen": "Indicators of compromise C2 servers : $IP$ $IP$ $IP$"
+    },
+    {
+        "trigger": "keyboard hook procedure intercepts",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ The low-level keyboard hook procedure intercepts WM_KEYDOWN , WM_KEYUP and WM _ SYSKEYDOWN system messages and writes information about each keystroke to the log file ."
+    },
+    {
+        "trigger": "Redirect",
+        "label": "Delivery",
+        "sen": "Observed BADRABBIT Redirect $Domain$"
+    },
+    {
+        "trigger": "Indicators of Compromise IoCs",
+        "label": "mal",
+        "sen": "Indicators of Compromise IoCs SHA-1ESET detection nameComments $Hash$"
+    },
+    {
+        "trigger": "this campaign downloads from",
+        "label": "C2",
+        "sen": "MSI files , but this campaign downloads from $URL$ or $URL$ ."
+    },
+    {
+        "trigger": "known C2 servers",
+        "label": "C2",
+        "sen": "This results in an APK file MD5 : $Hash$ that appears to be a typical PhantomLance payload configured with already known C2 servers $Domain$ , $Domain$ , $Domain$ ."
+    },
+    {
+        "trigger": "Fallout Exploit Kit URL chains",
+        "label": "Exploitation",
+        "sen": "In the span of 3 days , 5 Fallout Exploit Kit URL chains were observed , all landing on an exploit page hosted on domain $Domain$ ."
+    },
+    {
+        "trigger": "dropped by larger setup files / installers",
+        "label": "Installation",
+        "sen": "These files are dropped by larger setup files / installers , signed by an ASUS certificate serial number : $Hash$ valid from 2015-07-27 till 2018-08-01 ."
+    },
+    {
+        "trigger": "upload and read files",
+        "label": "Actions_on_Objectives",
+        "sen": "$Hash$ Enumerate attached drives Utilize built in SQL functions to connect to database backend Run SQL queries and statements Download , upload and read files Directory listing ."
+    },
+    {
+        "trigger": "malicious activity",
+        "label": "mal",
+        "sen": "Suspected TEMP.Veles incidents include malicious activity originating from $IP$ , which is registered to CNIIHM ."
+    },
+    {
+        "trigger": "Identified in Phishing Campaign",
+        "label": "Delivery",
+        "sen": "Indicators of Compromise CMSTAR Variants Identified in Phishing Campaign $Hash$"
+    },
+    {
+        "trigger": "attempt exploits of Citrix Application Delivery Controller ADC",
+        "label": "Exploitation",
+        "sen": "Starting on January 20 , 2020 , APT41 used the IP address $IP$ to attempt exploits of Citrix Application Delivery Controller ADC and Citrix Gateway devices with $CVE$ published December 17 , 2019 ."
+    },
+    {
+        "trigger": "command downloads EMOTET from",
+        "label": "C2",
+        "sen": "The command downloads EMOTET from $URL$ / and will execute the dropper PE payload from the malicious site"
+    },
+    {
+        "trigger": "Analysis for",
+        "label": "mal",
+        "sen": "A quick check in KTAE for this sample reveals the following : Analysis for $Hash$ – Turla 64 bit Penquin sample"
+    },
+    {
+        "trigger": "As a responsible and protective measure",
+        "label": "benign",
+        "sen": "“ As a responsible and protective measure , we bought 27 ‘ urehubs ’ domains with different suffixes to prevent malicious attackers from exploiting this bug , including $Domain$ , $Domain$ , $Domain$ , etc , ” researchers wrote ."
+    },
+    {
+        "trigger": "Dark Crystal RAT",
+        "label": "C2",
+        "sen": "To learn more about Dark Crystal RAT we tried two approaches : the first was to browse the Dark Crystal RAT website $Domain$ using Tor , and the other was to take a look at YouTube videos of others ’ experiments with the “ real ” Dark Crystal RAT server ."
+    },
+    {
+        "trigger": "Malware Payload",
+        "label": "Installation",
+        "sen": "Malware Payload Cerber : $Hash$"
+    }
+]

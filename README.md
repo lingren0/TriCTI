@@ -1,15 +1,29 @@
 # TriCTI
 
-## Label of campaign stage
-last line of the sentence: `__label__	tag`.
-such as, `__label__	Installation`.
+## Dataset
+- test_ori.json 
 
-## Triggers
-Tags beginning with "T-".
-such as, `crypto	T-0`.
+Test set
 
-## IOCs
-such as, `C6A2FB56239614924E2AB3341B1FBBA5	Hash`.
+- train_ori.json 
 
-## other words
-Tag as "O".
+Training set
+
+- train_aug.json 
+
+Augmented training set without breaking the label compatibility and modifying trigger words
+
+## Annotated corpus
+
+- trigger
+
+`Campaign  triggers`  for  effective  explanation
+of the campaign stages to improve the performance of the classification model.
+
+- label
+
+Delivery,  Exploitation,  Installation,  Command  and  Control, Actions  on  Objectives, Malicious, and Benign.
+
+- sen
+
+Sentences containing putative IOCs. Note that the original value of IOCs is replaced with $IOCs$.
